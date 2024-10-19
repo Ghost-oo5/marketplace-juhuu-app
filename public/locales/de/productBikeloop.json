@@ -1,0 +1,121 @@
+{
+  "title": "JUHUU BikeLoop",
+  "subtitle": "Unlock the Future of Bike Storage",
+  "trustInJuhuu": "Vertrauen in JUHUU",
+  "shortDesc": {
+    "title": "Kurzbeschreibung",
+    "text": "Der JUHUU BikeLoop ist ein stationäres, sicheres und intelligentes Schlosssystem für Fahrräder, das an vorhandenen Fahrradständern oder einer Wand befestigt werden kann. Mit einem robusten Stahlseil und IoT-Technologie ausgestattet, ermöglicht der BikeLoop den Nutzern, ihr Fahrrad bequem über die JUHUU App zu sichern und zu öffnen. Die integrierte Alarmfunktion erhöht die Sicherheit zusätzlich, indem sie bei Manipulationen am Stahlseil umgehend Benachrichtigungen verschickt und einen akustischen Alarm auslöst."
+  },
+  "features": {
+    "title": "Features",
+    "features": [
+      {
+        "title": "App Steuerung",
+        "text": "Nutzer können den BikeLoop einfach und bequem über die JUHUU App öffnen und schließen. Betreiber erhalten Zugang zu Verwaltungsfunktionen, die die Verwaltung und Überwachung der BikeBox erleichtern.",
+        "iconUrl": "/assets/img/icons/new/ui-design.png"
+      },
+      {
+        "title": "Whitelabeling",
+        "text": "Wir bieten Ihnen die Möglichkeit, den BikeLoop mit Ihrem eigenen Branding zu versehen. Dies umfasst sowohl das Nutzerinterface der App als auch das Design der physischen BikeLoop, um sie an Ihre Unternehmensidentität anzupassen.",
+        "iconUrl": "/assets/img/icons/new/paint-brush.png"
+      }, {
+        "title": "Sicherheit",
+        "text": "Der BikeLoop bietet hohe Sicherheit dank des robusten Stahlseils und der Alarmfunktion, die bei Manipulationen am Seil Benachrichtigungen sendet und einen akustischen Alarm auslöst.",
+        "iconUrl": "/assets/img/icons/new/lock.png"
+      }, {
+        "title": "Platzsparend",
+        "text": "Durch seine kompakte Größe und Wand- oder Fahrradständer-Montagemöglichkeiten benötigt der BikeLoop keine zusätzliche Grundfläche und ermöglicht eine effiziente Nutzung des verfügbaren Raums.",
+        "iconUrl": "/assets/img/icons/new/maximize.png"
+      }, {
+        "title": "Günstig",
+        "text": "Der JUHUU BikeLoop ist in verschiedenen Ausführungen erhältlich und kostet bis zu 70% weniger als eine BikeBox, was ihn zu einer sehr attraktiven Alternative für Unternehmen und Gemeinden macht.",
+        "iconUrl": "/assets/img/icons/new/money.png"
+      }, {
+        "title": "Autark",
+        "text": "Dank der integrierten Akkus bleibt der BikeLoop ein Jahr lang funktionsfähig. Die Akkus sind austauschbar und können wieder aufgeladen werden, um die Steuer- und Kommunikationsplatine sowie das Schloss am Laufen zu halten. Dies gilt nur für den BikeLoop ohne Ladefunktion.",
+        "iconUrl": "/assets/img/icons/new/batterie-level.png"
+      }, {
+        "title": "Einfache Installation",
+        "text": "Der JUHUU BikeLoop kann einfach nachgerüstet oder in Kombination mit einem JUHUU Fahrradständer auf freier Fläche montiert werden, wodurch eine schnelle und unkomplizierte Installation ermöglicht wird.",
+        "iconUrl": "/assets/img/icons/new/schraubendreher.png"
+      }
+    ]
+  },
+  "ctaCard": {
+    "title": "Ready to change your game?",
+    "text": "Kontaktiere uns noch heute und entfalte das volle Potential!",
+    "btnText": "Kontakt",
+    "btnUrl": "/contact"
+  },
+  "problem": {
+    "title": "Problemlösungen",
+    "problems": [
+      {
+        "title": "Hohe Kosten für Fahrradparklösungen",
+        "text": "JUHUU BikeLoop senkt die Kosten für Fahrradparklösungen um bis zu 60% im Vergleich zu traditionellen BikeBox-Lösungen."
+      },
+      {
+        "title": "Platzmangel",
+        "text": "JUHUU BikeLoop schafft eine platzsparende Lösung, indem er an Wänden oder Fahrradständern montiert wird und keinen zusätzlichen Bodenplatz beansprucht."
+      },
+      {
+        "title": "Sicherheitsbedenken",
+        "text": "JUHUU BikeLoop erhöht die Sicherheit durch ein robustes Stahlseil und eine Alarmfunktion, die bei Manipulationen aktiviert wird."
+      },
+      {
+        "title": "Komplexe Installation",
+        "text": "JUHUU BikeLoop bietet eine einfache Installation durch Nachrüstung oder in Kombination mit einem JUHUU Fahrradständer, unabhängig von externer Stromversorgung."
+      },
+      {
+        "title": "Anpassung an individuelle Markenidentitäten",
+        "text": "JUHUU Whitelabeling erlaubt die Anpassung des BikeLoops an das Erscheinungsbild des Kunden und dessen Markenidentität."
+      },
+      {
+        "title": "Fragmentierte Zugangssysteme",
+        "text": "JUHUU App-Steuerung vereinheitlicht den Zugang zu BikeLoops und bietet eine zentrale, benutzerfreundliche Lösung."
+      },{
+        "title": "Energieverbrauch",
+        "text": "JUHUU BikeLoop ist energieeffizient, benötigt wenig Strom und hat einen Akku mit langer Nutzungsdauer, bevor er aufgeladen werden muss."
+      }
+    ]
+  },
+  "featureImg": "/assets/img/images/bikeLoopFeatured.png",
+  "bannerImg": "/assets/img/images/bikeLoopMainTrans.png",
+  "reference": {
+    "title": "Referenzen",
+    "references": [
+    ]
+  },
+  "preview": {
+    "title": "Use Cases ",
+    "previews": [
+      {
+        "title": "Bahnhof",
+        "imgUrl": "",
+        "text": "Der JUHUU BikeLoop bietet Pendlern und Reisenden an Bahnhöfen eine sichere und bequeme Möglichkeit, ihre Fahrräder abzuschließen. Die einfache Bedienung über die JUHUU App und die platzsparende Installation machen den BikeLoop zur idealen Lösung für stark frequentierte Verkehrsknotenpunkte.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Wohnhausanlagen",
+        "imgUrl": "",
+        "text": "In Wohnhausanlagen sorgt der JUHUU BikeLoop für zusätzliche Sicherheit und Komfort für die Bewohner, indem er eine platzsparende und kostengünstige Fahrradparklösung bietet. Die einfache Installation und App-Steuerung ermöglichen den Bewohnern eine bequeme und sichere Nutzung des BikeLoops.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Supermärkte und Gastro",
+        "imgUrl": "",
+        "text": "Der JUHUU BikeLoop erleichtert Kunden von Supermärkten und Gastronomiebetrieben das sichere Abstellen ihrer Fahrräder während des Einkaufs oder Restaurantbesuchs. Die platzsparende und kostengünstige Lösung fördert zudem den umweltfreundlichen Fahrradverkehr und erhöht die Kundenzufriedenheit.",
+        "btnTxt": "",
+        "btnLink": ""
+      }, {
+        "title": "Bildungseinrichtung",
+        "imgUrl": "",
+        "text": "JUHUU BikeLoop bietet Schülern, Studenten und Mitarbeitern von Schulen und Universitäten eine sichere und benutzerfreundliche Möglichkeit, ihre Fahrräder abzuschließen. Die platzsparende Installation und zentrale App-Steuerung machen den BikeLoop zur idealen Lösung für stark frequentierte Bildungseinrichtungen, die den Fahrradverkehr fördern möchten.",
+        "btnTxt": "",
+        "btnLink": ""
+      }
+    ]
+  }
+}

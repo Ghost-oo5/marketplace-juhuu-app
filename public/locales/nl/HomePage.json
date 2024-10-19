@@ -1,0 +1,101 @@
+{
+  "StartHeader": {
+    "main": {
+      "title": "Word onderdeel van het JUHUU -app -ecosysteem voor IoT -toepassingen",
+      "infoText": "Met het app -ecosysteem van JUHUU kunt u gemakkelijk en betaalbare toegang tot de wereld van \"Internet of Things\". We integreren uw product op een zeer ongecompliceerde manier in de JUHUU -app en WebApp.",
+      "buttonText": "Begin"
+    }
+  },
+  "trustInJuhuu": "Vertrouw op JUHUU",
+  "whyWorkwithJuhuu": {
+    "title": "Waarom bedrijven met JUHUU werken",
+    "text": "JUHUU is een contante betaling, controle en administratieve oplossing voor MKB-bedrijven, eenmanszaak en exploitanten van automatische zelfbedieningsmachines. Wij bieden u een complete oplossing die is aangepast aan uw vereisten. Beginnend met geïndividualiseerde besturingseenheden, aangepaste software en geoptimaliseerde gegevensevaluatie."
+  },
+  "iconRow": {
+    "savecosts": "Tot 80% kostenbesparingen",
+    "savecostsTxt": "Bespaar tot 80% van de ontwikkelingskosten door middel van integratie in de JUHUU -app en webtoepassing.",
+    "grow": "Toename van de verkoop",
+    "growTxt": "Verhoog uw verkoop door verschillende voordelen van de JUHUU -functies.",
+    "customize": "Aangepast",
+    "customizeTxt": "We passen functies en het ontwerp van uw gebruikersinterface aan en de gekoppelde JUHUU -hardware aan uw vereisten."
+  },
+  "Keyfeatures": {
+    "title": "Keyfeatures",
+    "card": {
+      "1": {
+        "title": "Administratie",
+        "text": "Automatische gebruiker, boeking en factuurbeheer. We automatiseren grote delen van de administratie en verminderen een aanzienlijk deel van de administratieve inspanning."
+      },
+      "2": {
+        "title": "Gegevensverwerking",
+        "text": "Met JUHUU Analytics krijgt u toegang tot onze automatische gegevensverwerking en heeft u een goed overzicht van belangrijke parameters."
+      },
+      "3": {
+        "title": "Interface Integration (API)",
+        "text": "De JUHUU -app kan via een API in zijn eigen systeem worden geïntegreerd. Hiermee kunt u de meeste JUHUU -functies en voordelen gebruiken in uw eigen app."
+      },
+      "4": {
+        "title": "Makkelijk te gebruiken",
+        "text": "Uw klanten kunnen uw producten/diensten gebruiken in slechts een paar klikken via de JUHUU -app en de JUHUU WebApp."
+      }
+    }
+  },
+  "explainervideo": {
+    "title": "Verklaarvideo uitleggen"
+  },
+  "app": {
+    "title": "JUHUU -app",
+    "section": {
+      "1": "De JUHUU -app en het webplatform is een innovatieve softwareoplossing die, in combinatie met de verschillende JUHUU -hardwaremodules, automatisering, controle en administratieve taken van IoT -producten, maar ook services.",
+      "2": "Met de app hebben alle klanten de mogelijkheid om hun producten/diensten in slechts enkele klikken te betalen en te gebruiken. Een mogelijke toepassing zijn zelf -servicemachines. We ontwikkelen een aangepaste gebruikersinterface en speciale hardwaremodules voor u",
+      "3": "We integreren uw producten/diensten in de JUHUU -app en maken zeer lichte en goedkope toegang tot alle functies en voordelen van JUHUU mogelijk.",
+      "4": "De JUHUU -app is ook beschikbaar als een webtoepassing in het geval dat een gebruiker zonder registratie wil doorgaan. In dit geval wordt deze bij het scannen van de QR -code automatisch doorgestuurd naar de webtoepassing waar alle basisfuncties beschikbaar zijn."
+    },
+    "moreInfo": "Meer informatie"
+  },
+  "hardware": {
+    "title": "JUHUU -hardwaremodules",
+    "text": "De JUHUU -hardwaremodules verbinden hun producten met de JUHUU -app en WebApp. Onze hardwareborden hebben een modulaire structuur, wat betekent dat de afzonderlijke modules met elkaar kunnen worden gecombineerd, afhankelijk van het gebruik.",
+    "iot": {
+      "title": "IoT -module",
+      "text": "De IoT -module is onze centrale communicatie -eenheid die uw product via het mobiele netwerk verbindt met ons systeem. Deze module is hetzelfde bij elke toepassing en maakt dus een gemakkelijke en goedkope schaalbaarheid mogelijk."
+    },
+    "steuermodule": {
+      "title": "Controle Module",
+      "text": "De besturingsmodule neemt eventuele belasting- en meetfuncties over die u nodig hebt voor uw toepassing. Dit bord is speciaal aangepast aan de gegeven vereisten om alle vrijheden te waarborgen."
+    },
+    "terminal": {
+      "title": "Kaartterminal",
+      "text": "Bij ons heeft u de mogelijkheid om verschillende EC -kaarten toe te staan ​​om \"analoge\" betalingen toe te staan ​​naast de betalingsopties in de app en WebApp via een kaartterminal."
+    }
+  },
+  "analytics": {
+    "title": "JUHUU Analytics",
+    "section": {
+      "1": "Met JUHUU Analytics krijgt u toegang tot onze automatische gegevensverwerkingssoftware. Dit is verbonden met de JUHUU -app en WebApp en kan, afhankelijk van de uitvoering, verschillende gegevens en parameters ontvangen en evalueren.",
+      "2": "Hier kunt u een overzicht krijgen van belangrijke gegevens zoals verkoop, klok -tot -datumgebruik, totale belasting, enz. Bovendien kunnen deze worden geïllustreerd in verschillende visuele vormen van representatie.",
+      "3": "De evaluatie van verschillende meetparameters is bijvoorbeeld ook mogelijk als u de beoogde controlebord hebt aangepast."
+    }
+  },
+  "btn": {
+    "products": "naar de producten",
+    "usecases": "aan de UseCases"
+  },
+  "usecases": {
+    "title": "Usecasen",
+    "text": "Hier zou uw tekst kunnen staan ​​die beschrijft wat de fietsbox doet!",
+    "button": "Naar de use cases",
+    "echarging": {
+      "title": "Infrastructuur voor kolombeheer oplaaden"
+    },
+    "sb": {
+      "title": "JUHUU Chrage"
+    },
+    "bikebox": {
+      "title": "Digitale fietskamer"
+    },
+    "custome": {
+      "title": "Aangepaste usecase"
+    }
+  }
+}

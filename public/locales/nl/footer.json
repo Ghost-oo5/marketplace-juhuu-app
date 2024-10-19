@@ -1,0 +1,46 @@
+{
+  "SectionLogo": {
+    "community": {
+      "name": "Word onderdeel van de gemeenschap!"
+    }
+  },
+  "SectionInfos": {
+    "CompanyName": "JUHUU Bikebox GmbH",
+    "telephone": {
+      "link": "Tel: +436604650442",
+      "pretty": "+43 660 465 0442"
+    },
+    "mail": {
+      "link": "Mailto: office@juhuu.app",
+      "pretty": "Office@juhuu.app"
+    },
+    "adress": {
+      "link": "https://goo.gl/maps/JPU9bJQKLD9UXTFD8",
+      "pretty": "Treustrasse 22-24, 1200 Wenen Oostenrijk"
+    }
+  },
+  "SectionImporant": {
+    "name": "Belangrijk",
+    "agb": {
+      "name": "Voorwaarden"
+    },
+    "privacy": {
+      "name": "gegevensbescherming"
+    },
+    "impressum": {
+      "name": "afdrukken"
+    },
+    "faq": {
+      "name": "FAQ"
+    },
+    "credits": {
+      "name": "Credits"
+    }
+  },
+  "SectionDownload": {
+    "name": "Downloaden"
+  },
+  "SectionPartner": {
+    "name": "Partner van"
+  }
+}

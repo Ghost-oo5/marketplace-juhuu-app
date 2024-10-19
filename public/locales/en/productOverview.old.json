@@ -1,0 +1,40 @@
+{
+  "title": "Products & Use Cases",
+  "previews": [{
+    "title": "MultiRoom",
+    "subtitle": "Die digitalste BikeBox der Welt",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Learn more",
+    "btnLink": "/products/multiroom",
+    "text": "The JUHUU Multi Room system is the innovative solution for secure and convenient access management in shared spaces. Whether bike rooms, seminar rooms, parking spaces or common rooms - the MultiRoom system simplifies access and increases efficiency. Thanks to the JUHUU app and the user-friendly interface, authorizations can be easily managed and controlled. With customizable solutions perfectly tailored to the needs of companies and communities, the JUHUU MultiRoom system becomes an indispensable helper in modern room management. "
+  },{
+    "title": "BikeLoop",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Learn more",
+    "btnLink": "/products/bikeloop",
+    "text": "The JUHUU BikeLoop is a stationary, secure and smart lock system for bicycles that can be attached to existing bike racks or a wall. Equipped with a robust steel cable and IoT technology, the BikeLoop allows users to conveniently secure and open their bike via the JUHUU app. The integrated alarm function further enhances security by immediately sending notifications and triggering an audible alarm in case of tampering with the steel cable."
+  },{
+    "title": "App Kit",
+    "subtitle": "Die digitalste BikeBox der Welt",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Learn more",
+    "btnLink": "/products/app_kit",
+    "text": "The JUHUU App Kit offers companies a powerful and cost-effective solution to seamlessly integrate their products and services with the JUHUU App. By developing customized features and adapted hardware, we enable you to optimize your business processes and expand your offering in an efficient way. By integrating with the JUHUU App, they benefit from the numerous advantages our platform offers, such as improved customer loyalty, user-friendly operation, and the ability to make their products available to a wider audience."
+  },{
+    "title": "BikeBox",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Learn more",
+    "btnLink": "/products/bikebox",
+    "text": "The JUHUU BikeBox is the ideal bike parking solution for businesses and municipalities. With its robust design and easy management via the JUHUU app, provide customers and citizens with safe and convenient bike parking. Rely on a future-oriented, efficient solution that meets the needs of urban life."
+  },{
+    "title": "BikeBox Extension Kit",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Learn more",
+    "btnLink": "/products/bikebox_extension_kit",
+    "text": "The JUHUU BikeBox Extension Kit is an innovative solution to integrate existing bike boxes into a modern, digital system. With this kit, you bring older bike boxes up to date with the latest technology, integrate them seamlessly into the JUHUU app ecosystem, and thereby get all the software features of the JUHUU app. Sustainability and compliance are promoted by using existing hardware, creating a unified bike infrastructure system without having to dispose of old hardware."
+  }
+  ]
+}

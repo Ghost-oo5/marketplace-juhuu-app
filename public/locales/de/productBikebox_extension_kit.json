@@ -1,0 +1,105 @@
+{
+  "title": "JUHUU BikeBox Extension Kit",
+  "subtitle": "Revive Your Boxes, Unlock Possibilities",
+  "trustInJuhuu": "Vertrauen in JUHUU",
+  "shortDesc": {
+    "title": "Kurzbeschreibung",
+    "text": "Das JUHUU BikeBox Extension Kit ist eine innovative Lösung, um bestehende Fahrradboxen in ein modernes, digitales System zu integrieren. Mit diesem Kit bringen Sie ältere Fahrradboxen auf den neuesten Stand der Technik, integrieren sie nahtlos in das JUHUU App-Ökosystem und erhalten dadurch alle Softwarefeatures der JUHUU App. Nachhaltigkeit und Konformität werden durch die Nutzung vorhandener Hardware gefördert, wodurch ein einheitliches Fahrradinfrastruktursystem entsteht, ohne dass alte Hardware entsorgt werden muss."
+  },
+  "features": {
+    "title": "Features",
+    "features": [
+      {
+        "title": "App Steuerung",
+        "text": "Nutzer können die upgegradeten BikeBox einfach und bequem über die JUHUU App öffnen und schließen. Betreiber erhalten Zugang zu Verwaltungsfunktionen, die die Verwaltung und Überwachung der BikeBox erleichtern.",
+        "iconUrl": "/assets/img/icons/new/ui-design.png"
+      },
+      {
+        "title": "Whitelabeling",
+        "text": "Wir bieten Ihnen die Möglichkeit, ihr Nutzerinterface innerhalb der JUHUU App mit Ihrem eigenen Branding zu versehen, um es an Ihre Unternehmensidentität anzupassen.",
+        "iconUrl": "/assets/img/icons/new/paint-brush.png"
+      },
+      {
+        "title": "Sicherheit",
+        "text": "Die BikeBox Extension Kit verfügt über ein elektronisches Schloss, das über die JUHUU-App geöffnet und geschlossen werden kann. Bei einem unbefugten Öffnungsversuch alarmiert das Schloss den aktiven Nutzer, den Betreiber und uns als Anbieter. Zudem sorgt die integrierte Alarmsicherung für zusätzlichen Schutz und verhindert, dass Diebstähle lange unbemerkt bleiben.",
+        "iconUrl": "/assets/img/icons/new/lock.png"
+      },
+      {
+        "title": "Autark",
+        "text": "Dank der integrierten Akkus bleibt die upgegradeten BikeBox ein Jahr lang funktionsfähig. Die Akkus sind austauschbar und können wieder aufgeladen werden, um die Steuer- und Kommunikationsplatine sowie das Schloss am Laufen zu halten.",
+        "iconUrl": "/assets/img/icons/new/batterie-level.png"
+      },
+      {
+        "title": "Bezahlfunktion",
+        "text": "Die JUHUU App ermöglicht es, den Zugang zur BikeBox bequem und sicher über verschiedene Zahlungsmethoden abzurechnen.",
+        "iconUrl": "/assets/img/icons/new/credit-card.png"
+      },
+      {
+        "title": "Einfache Installation",
+        "text": "Das JUHUU BikeBox Extension Kit lässt sich mühelos in bestehende Fahrradboxen integrieren, ohne sehr aufwendige Installationsverfahren. ",
+        "iconUrl": "/assets/img/icons/new/schraubendreher.png"
+      }
+    ]
+  },
+  "ctaCard": {
+    "title": "Ready to change your game?",
+    "text": "Kontaktiere uns noch heute und entfalte das volle Potential!",
+    "btnText": "Kontakt",
+    "btnUrl": "/contact"
+  },
+  "problem": {
+    "title": "Problemlösungen",
+    "problems": [
+      {
+        "title": "Hohe Kosten für neue Boxen",
+        "text": "Das JUHUU BikeBox Extension Kit ermöglicht die Digitalisierung bestehender Fahrradboxen, wodurch der Kauf neuer Boxen vermieden und Kosten gespart werden können."
+      },
+      {
+        "title": "Ökologische Aspekte",
+        "text": "Mit der Umrüstung bestehender Boxen schont das JUHUU BikeBox Extension Kit Ressourcen und trägt zur Nachhaltigkeit bei, indem alte Fahrradboxen weiter genutzt werden können, anstatt sie durch neue zu ersetzen."
+      },
+      {
+        "title": "Akzeptanz",
+        "text": "Das JUHUU BikeBox Extension Kit erweitert den Funktionsumfang der Fahrradboxen und erhöht so deren Attraktivität und Akzeptanz bei den Nutzern."
+      },
+      {
+        "title": "Einheitliches System",
+        "text": "Durch die Integration des JUHUU BikeBox Extension Kits in bestehende Boxen entsteht ein einheitliches System, das die Verwaltung und Benutzung vereinfacht."
+      },
+      {
+        "title": "Aktualisierung",
+        "text": "Das JUHUU BikeBox Extension Kit bringt veraltete Fahrradboxen auf den neuesten Stand der Technik und ermöglicht somit eine zukunftsorientierte und moderne Fahrradinfrastruktur."
+      },
+      {
+        "title": "Kompatibilität",
+        "text": "Das JUHUU BikeBox Extension Kit ist so konzipiert, dass es mit einer Vielzahl von bestehenden Fahrradboxen kompatibel ist und somit eine breite Palette von Boxentypen aufwerten kann."
+      }
+    ]
+  },
+  "featureImg": "/assets/img/images/bikebox_img.png",
+  "bannerImg": "/assets/img/images/bikebox_img.png",
+  "reference": {
+    "title": "Referenzen",
+    "references": [
+    ]
+  },
+  "preview": {
+    "title": "Use Cases ",
+    "previews": [
+      {
+        "title": "Fahrradboxen",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "Das JUHUU BikeBox Extension Kit eignet sich ideal für die Modernisierung von bestehenden Fahrradboxen in Gemeinden, Wohnanlagen und Bahnhöfen. Es ermöglicht eine effiziente und nachhaltige Digitalisierung der Boxen, indem es den Zugang und die Verwaltung über die JUHUU App steuert, ohne die Notwendigkeit, vorhandene Infrastruktur zu ersetzen.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Diverse Boxen",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "Das JUHUU BikeBox Extension Kit bietet eine vielseitige Lösung für die Digitalisierung von absperrbaren Boxen in Gemeinden, Unternehmen und öffentlichen Einrichtungen. Indem es den Zugang und die Verwaltung über die JUHUU App ermöglicht, werden herkömmliche Schlüssel und Zugangssysteme überflüssig, was den Nutzern mehr Flexibilität und den Betreibern eine effizientere Verwaltung der Boxen verschafft - unabhängig davon, ob es sich um Fahrradboxen, Lagerboxen oder andere absperrbare Räume handelt.",
+        "btnTxt": "",
+        "btnLink": ""
+      }
+    ]
+  }
+}

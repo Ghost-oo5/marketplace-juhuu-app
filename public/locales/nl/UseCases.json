@@ -1,0 +1,80 @@
+{
+  "charge": {
+    "title": "JUHUU lading",
+    "text": "JUHUU Charge is een innovatieve software voor belasting-, management- en betalingssoftware voor uw e-lozing benzinetwerk. Naast een breed scala aan betalingsopties bieden we ook extra functies.",
+    "startBtnText": "Kom meer te weten",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "mehrInfoText": "Kom meer te weten",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "imgUrl": "/assets/img/product_pictures/charging_station_transparent_background-min.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & Web Control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/queue_icon-min.png",
+        "txt": "Digitale wachtrij"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Betaling via app of web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reserverende optie"
+      },
+      {
+        "iconUrl": "/assets/img/icons/pos_terminal_icon-min.png",
+        "txt": "Betaling via kaartterminal"
+      },
+      {
+        "iconUrl": "/assets/img/icons/settings_icon-min.png",
+        "txt": "Bruikbaar universeel"
+      },
+      {
+        "iconUrl": "/assets/img/icons/piggy_bank_icon-min.png",
+        "txt": "Tot 80% beschikbaar"
+      },
+      {
+        "iconUrl": "/assets/img/icons/bar-chart.png",
+        "txt": "Dynamisch prijzen"
+      }
+    ]
+  },
+  "automat": {
+    "title": "Machine",
+    "text": "De fietsbox is een fietsbox die wordt bestuurd via de JUHUU-app, waarmee de diefstalbestendige parkeerplaats van de fiets mogelijk is. In tegenstelling tot conventionele fietsparken biedt de fietsen volledige bescherming tegen diefstal van alle fietscomponenten en omgevingsinvloeden en vandalisme.",
+    "startBtnText": "Kom meer te weten",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "mehrInfoText": "Kom meer te weten",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "imgUrl": "/assets/img/product_pictures/vending-machine.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & Web Control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/thermometer.png",
+        "txt": "Temperatuurregeling"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Intelligente niveau -indicator"
+      },
+      {
+        "iconUrl": "/assets/img/icons/settings_icon-min.png",
+        "txt": "Bruikbaar universeel"
+      },
+      {
+        "iconUrl": "/assets/img/icons/piggy_bank_icon-min.png",
+        "txt": "Tot 60% beschikbaar"
+      },
+      {
+        "iconUrl": "/assets/img/icons/bar-chart.png",
+        "txt": "Dynamisch prijzen"
+      }
+    ]
+  }
+}

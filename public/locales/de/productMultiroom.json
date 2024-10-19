@@ -1,0 +1,125 @@
+{
+  "title": "JUHUU MultiRoom",
+  "subtitle": "Revolutionizing Room Access",
+  "trustInJuhuu": "Vertrauen in JUHUU",
+  "shortDesc": {
+    "title": "Kurzbeschreibung",
+    "text": "Das JUHUU MultiRoom-System ist die innovative Lösung für sicheres und komfortables Zugangsmanagement in gemeinschaftlich genutzten Räumen. Egal ob Fahrradräume, Seminarräumen, Parkräumen oder Gemeinschaftsräume – das MultiRoom-System vereinfacht den Zugang und steigert die Effizienz. Dank der JUHUU App und der benutzerfreundlichen Oberfläche können Berechtigungen einfach verwaltet und kontrolliert werden. Mit individuell anpassbaren Lösungen, die perfekt auf die Bedürfnisse von Unternehmen und Gemeinden zugeschnitten sind, wird das JUHUU MultiRoom-System zum unverzichtbaren Helfer im modernen Raummanagement."
+  },
+  "features": {
+    "title": "Features",
+    "features": [
+      {
+        "title": "App Steuerung",
+        "text": "Steuern Sie den Zugang zum JUHUU MultiRoom einfach und bequem über die JUHUU App, ohne den Einsatz von physischen Schlüsseln oder Zugangskarten.",
+        "iconUrl": "/assets/img/icons/new/ui-design.png"
+      },
+      {
+        "title": "Whitelabeling",
+        "text": "Jeder MultiRoom kann individuell an das Design und die Anforderungen Ihres Unternehmens angepasst werden, sowohl im Nutzerinterface als auch bei der Hardware.",
+        "iconUrl": "/assets/img/icons/new/paint-brush.png"
+      }, {
+        "title": "Sicherheit",
+        "text": "Mit einem sicheren elektronischen Schloss und integriertem Alarmsystem bietet der JUHUU MultiRoom Schutz vor unbefugtem Zugriff und Diebstahl.",
+        "iconUrl": "/assets/img/icons/new/lock.png"
+      }, {
+        "title": "Modular",
+        "text": "Das JUHUU MultiRoom Kit kann flexibel erweitert und angepasst werden, um den Anforderungen verschiedener Räume und Nutzungsszenarien gerecht zu werden.",
+        "iconUrl": "/assets/img/icons/new/puzzle.png"
+      }, {
+        "title": "Bezahlfunktion",
+        "text": "Die JUHUU App ermöglicht es, den Zugang zum MultiRoom bequem und sicher über verschiedene Zahlungsmethoden abzurechnen.",
+        "iconUrl": "/assets/img/icons/new/credit-card.png"
+      }, {
+        "title": "Einfache Installation",
+        "text": "Der JUHUU MultiRoom ist einfach in bestehende Systeme zu integrieren, ohne dass komplexe Installationsschritte erforderlich sind.",
+        "iconUrl": "/assets/img/icons/new/schraubendreher.png"
+      }, {
+        "title": "Automatische Verwaltung",
+        "text": "Die JUHUU App verwaltet automatisch die Nutzerdaten und erstellt bequem Rechnungen, um den Verwaltungsaufwand für Unternehmen zu minimieren.",
+        "iconUrl": "/assets/img/icons/new/ordner.png"
+      }
+    ]
+  },
+  "ctaCard": {
+    "title": "Ready to change your game?",
+    "text": "Kontaktiere uns noch heute und entfalte das volle Potential!",
+    "btnText": "Kontakt",
+    "btnUrl": "/contact"
+  },
+  "problem": {
+    "title": "Problemlösungen",
+    "problems": [
+      {
+        "title": "Unzureichende Zugangskontrolle",
+        "text": "Digitale Zugangskontrolle: Durch die Verwendung der JUHUU App zur Verwaltung der Zugangsberechtigungen können Unternehmen die Zugangskontrolle zentral steuern und den Zugriff auf die gemeinsam genutzten Räume einfach und effizient verwalten."
+      },
+      {
+        "title": "Sicherheitsbedenken",
+        "text": "Erhöhte Sicherheit: Das JUHUU MultiRoom Kit ermöglicht es, den Zugang zu den Räumen auf autorisierte Benutzer zu beschränken und hilft so, Sicherheitsrisiken zu minimieren."
+      },
+      {
+        "title": "Ineffiziente Nutzung von Räumen",
+        "text": "Optimale Raumnutzung: Die JUHUU-Plattform ermöglicht es Unternehmen, die Nutzung ihrer gemeinsamen Räume zu überwachen und zu optimieren, um eine effiziente Nutzung der Ressourcen zu gewährleisten."
+      },
+      {
+        "title": "Hoher Verwaltungsaufwand",
+        "text": "Zeit- und Arbeitsersparnis: Die zentrale Verwaltung der Zugangsberechtigungen und die automatische Aktualisierung von Zugangsdaten reduzieren den Verwaltungsaufwand erheblich."
+      },
+      {
+        "title": "Nicht optimierte User Experience",
+        "text": "Verbesserte Nutzererfahrung: Die JUHUU App bietet den Benutzern eine einfache und benutzerfreundliche Möglichkeit, auf die gemeinsam genutzten Räume zuzugreifen, wodurch die Zufriedenheit und Akzeptanz der Nutzer erhöht wird."
+      },
+      {
+        "title": "Hohe Entwicklungskosten",
+        "text": "JUHUU MultiRoom bietet eine kosteneffiziente Lösung, indem es den Bedarf an teuren, proprietären Zugangssystemen reduziert."
+      }
+    ]
+  },
+  "featureImg": "",
+  "bannerImg": "/assets/img/images/bike_station-min.jpg",
+  "reference": {
+    "title": "Referenzen",
+    "references": [
+      {
+        "title": "ÖBB Bike Parking",
+        "imgUrl": "",
+        "text": "Für die ÖBB haben wir am Bahnhof in Niederösterreich eine JUHUU MultiRoom-Anlage implementiert, um Fahrradparken effizienter und sicherer zu gestalten. Die Anlage integriert sich nahtlos in die bestehende Infrastruktur und ermöglicht bequemen Zugang über die JUHUU App. Dies fördert umweltfreundlichen Pendlerverkehr und reduziert den Verwaltungsaufwand für die ÖBB.",
+        "btnTxt": "Mehr erfahren",
+        "btnLink": "/"
+      }
+    ]
+  },
+  "preview": {
+    "title": "Use Cases ",
+    "previews": [
+      {
+        "title": "Fahrradräume",
+        "imgUrl": "",
+        "text": "Das JUHUU MultiRoom Kit eignet sich hervorragend für die Verwaltung von Fahrradräumen in Wohnanlagen, Bürogebäuden, Bildungseinrichtungen und Bahnhöfen. Es ermöglicht eine sichere und bequeme Zutrittskontrolle, indem es den Raum digitalisiert und den Zugang über die JUHUU App steuert.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Veranstaltungsräume",
+        "imgUrl": "",
+        "text": "Das JUHUU MultiRoom Kit kann auch in Veranstaltungszentren, Coworking-Spaces oder Bildungseinrichtungen eingesetzt werden, um den Zugang zu verschiedenen Veranstaltungs- oder Seminarräumen zu steuern. Die Nutzer können über die JUHUU App auf die Räume zugreifen, was den Verwaltungsaufwand für die Raumvergabe und Schlüsselverwaltung reduziert.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Parkhäuser",
+        "imgUrl": "",
+        "text": "Das JUHUU MultiRoom Kit kann auch zur Verwaltung von Parkplätzen in Parkhäusern oder Tiefgaragen von Wohn- oder Geschäftskomplexen eingesetzt werden. Die digitale Zutrittskontrolle ermöglicht den Nutzern einen einfachen und sicheren Zugang, während die Verwaltung die Zugangsberechtigungen und die Belegung der Parkplätze überwachen kann.",
+        "btnTxt": "",
+        "btnLink": ""
+      }, {
+        "title": "Gemeinschaftsräume in Wohnhausanlagen",
+        "imgUrl": "",
+        "text": "JUHUU MultiRoom kann verwendet werden, um Zugang zu Gemeinschaftsräumen wie Fitnessstudios, Waschküchen oder Hobbyräumen in Wohnanlagen zu verwalten. Die JUHUU App ermöglicht den Bewohnern eine einfache Reservierung und Zugang, während die Verwaltung den Raum effizient steuern kann.",
+        "btnTxt": "",
+        "btnLink": ""
+      }
+    ]
+  }
+}

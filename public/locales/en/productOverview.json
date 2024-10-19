@@ -1,0 +1,27 @@
+{
+  "title": "Products & Use Cases",
+  "previews": [{
+    "title": "BikeBox",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Learn more",
+    "btnLink": "/products/bikebox",
+    "text": "The JUHUU BikeBox is the ideal bike parking solution for businesses and municipalities. With its robust design and easy management via the JUHUU app, provide customers and citizens with safe and convenient bike parking. Rely on a future-oriented, efficient solution that meets the needs of urban life."
+  },
+    {
+      "title": "BikeLoop",
+      "subtitle": "Secure and highly scalable",
+      "imgUrl": "/assets/img/images/bikeLoopMainTrans.png",
+      "btnTxt": "Learn more",
+      "btnLink": "/products/bikeloop",
+      "text": "The JUHUU BikeLoop is a stationary, secure and smart lock system for bicycles that can be attached to existing bike racks or a wall. Equipped with a robust steel cable and IoT technology, the BikeLoop allows users to conveniently secure and open their bike via the JUHUU app. The integrated alarm function further enhances security by immediately sending notifications and triggering an audible alarm in case of tampering with the steel cable."
+    },{
+      "title": "MultiRoom",
+      "subtitle": "Die digitalste BikeBox der Welt",
+      "imgUrl": "/assets/img/images/bike_station-min.jpg",
+      "btnTxt": "Learn more",
+      "btnLink": "/products/multiroom",
+      "text": "The JUHUU Multi Room system is the innovative solution for secure and convenient access management in shared spaces. Whether bike rooms, seminar rooms, parking spaces or common rooms - the MultiRoom system simplifies access and increases efficiency. Thanks to the JUHUU app and the user-friendly interface, authorizations can be easily managed and controlled. With customizable solutions perfectly tailored to the needs of companies and communities, the JUHUU MultiRoom system becomes an indispensable helper in modern room management. "
+    }
+  ]
+}

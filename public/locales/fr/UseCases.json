@@ -1,0 +1,80 @@
+{
+  "charge": {
+    "title": "JUHUU Charge",
+    "text": "JUHUU Charge est un logiciel d'innovation fiscale, de gestion et de paiement pour votre réseau d'essence en ligne. En plus d'un large éventail d'options de paiement, nous proposons également des fonctionnalités supplémentaires.",
+    "startBtnText": "Apprendre encore plus",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "mehrInfoText": "Apprendre encore plus",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "imgUrl": "/assets/img/product_pictures/charging_station_transparent_background-min.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "Application et contrôle Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/queue_icon-min.png",
+        "txt": "File d'attente numérique"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Paiement via l'application ou le Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Option de réserve"
+      },
+      {
+        "iconUrl": "/assets/img/icons/pos_terminal_icon-min.png",
+        "txt": "Paiement via le terminal de la carte"
+      },
+      {
+        "iconUrl": "/assets/img/icons/settings_icon-min.png",
+        "txt": "Universel utilisable"
+      },
+      {
+        "iconUrl": "/assets/img/icons/piggy_bank_icon-min.png",
+        "txt": "Jusqu'à 80% disponibles"
+      },
+      {
+        "iconUrl": "/assets/img/icons/bar-chart.png",
+        "txt": "Tarification dynamique"
+      }
+    ]
+  },
+  "automat": {
+    "title": "Machine",
+    "text": "Le Bikebox est une boîte à vélo contrôlée via l'application JUHUU, qui permet le parking à feuilles de vol du vélo. Contrairement aux parcs de vélo conventionnels, le vélo offre une protection complète contre le vol de tous les composants du vélo ainsi que les influences environnementales et le vandalisme.",
+    "startBtnText": "Apprendre encore plus",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "mehrInfoText": "Apprendre encore plus",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "imgUrl": "/assets/img/product_pictures/vending-machine.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "Application et contrôle Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/thermometer.png",
+        "txt": "Contrôle de la température"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Indicateur de niveau intelligent"
+      },
+      {
+        "iconUrl": "/assets/img/icons/settings_icon-min.png",
+        "txt": "Universel utilisable"
+      },
+      {
+        "iconUrl": "/assets/img/icons/piggy_bank_icon-min.png",
+        "txt": "Jusqu'à 60% disponibles"
+      },
+      {
+        "iconUrl": "/assets/img/icons/bar-chart.png",
+        "txt": "Tarification dynamique"
+      }
+    ]
+  }
+}

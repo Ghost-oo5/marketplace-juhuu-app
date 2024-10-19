@@ -1,0 +1,121 @@
+{
+  "title": "JUHUU BikeLoop",
+  "subtitle": "Unlock the Future of Bike Storage",
+  "trustInJuhuu": "Trust in JUHUU",
+  "shortDesc": {
+    "title": "Short description",
+    "text": "The JUHUU BikeLoop is a stationary, secure and smart lock system for bicycles that can be attached to existing bike racks or a wall. Equipped with a robust steel cable and IoT technology, the BikeLoop allows users to conveniently secure and open their bike via the JUHUU app. The integrated alarm function further enhances security by immediately sending notifications and triggering an audible alarm in case of tampering with the steel cable."
+  },
+  "features": {
+    "title": "Features",
+    "features": [
+      {
+        "title": "App control ",
+        "text": "Users can open and close the BikeLoop easily and conveniently via the JUHUU app. Operators get access to management functions that facilitate the administration and monitoring of the BikeBox.",
+        "iconUrl": "/assets/img/icons/new/ui-design.png"
+      },
+      {
+        "title": "Whitelabeling ",
+        "text": "We offer you the possibility to brand the BikeLoop with your own branding. This includes both the user interface of the app and the design of the physical BikeLoop to match your corporate identity.",
+        "iconUrl": "/assets/img/icons/new/paint-brush.png"
+      }, {
+        "title": "Security",
+        "text": "The BikeLoop offers high security thanks to the robust steel cable and the alarm function that sends notifications and triggers an audible alarm in case of tampering with the cable.",
+        "iconUrl": "/assets/img/icons/new/lock.png"
+      }, {
+        "title": "Self-sufficient ",
+        "text": "Thanks to the integrated rechargeable batteries, the BikeLoop remains functional for a year. The batteries are replaceable and can be recharged to keep the control and communication board and the lock running. This only applies to the BikeLoop without charging function.",
+        "iconUrl": "/assets/img/icons/new/batterie-level.png"
+      }, {
+        "title": "Easy installation ",
+        "text": "The JUHUU BikeLoop can be easily retrofitted or mounted in combination with a JUHUU bike stand on free space, allowing for quick and easy installation.",
+        "iconUrl": "/assets/img/icons/new/schraubendreher.png"
+      }, {
+        "title": "Space-saving ",
+        "text": "With its compact size and wall or bike rack mounting options, the BikeLoop requires no additional floor space and allows for efficient use of available space.",
+        "iconUrl": "/assets/img/icons/new/maximize.png"
+      }, {
+        "title": "Cheap",
+        "text": "The JUHUU BikeLoop is available in various designs and costs up to 70% less than a BikeBox, making it a very attractive alternative for businesses and municipalities.",
+        "iconUrl": "/assets/img/icons/new/money.png"
+      }
+    ]
+  },
+  "ctaCard": {
+    "title": "Ready to change your game?",
+    "text": "Contact us today and unleash the full potential!",
+    "btnText": "Kontakt",
+    "btnUrl": "/contact"
+  },
+  "problem": {
+    "title": "Problem solutions",
+    "problems": [
+      {
+        "title": "High costs for bicycle parking solutions",
+        "text": "JUHUU BikeLoop reduces the cost of bicycle parking solutions by up to 60% compared to traditional BikeBox solutions."
+      },
+      {
+        "title": "Lack of space",
+        "text": "JUHUU BikeLoop creates a space-saving solution by mounting on walls or bike racks and taking up no additional floor space."
+      },
+      {
+        "title": "Safety concerns",
+        "text": "JUHUU BikeLoop increases safety with a robust steel cable and an alarm function that is activated in the event of tampering."
+      },
+      {
+        "title": "Difficult installation",
+        "text": "JUHUU BikeLoop offers easy installation by retrofitting or in combination with a JUHUU bike stand, independent of external power supply."
+      },
+      {
+        "title": "Fragmented access systems",
+        "text": "JUHUU app control unifies access to BikeLoops and provides a centralized, user-friendly solution."
+      },
+      {
+        "title": "Adaptation to individual brand identities",
+        "text": "JUHUU Whitelabeling allows the BikeLoop to be customized to match the customer's look and feel and brand identity."
+      },{
+        "title": "Energy consumption",
+        "text": "JUHUU BikeLoop is energy efficient, requires little power and has a battery with a long service life before it needs to be recharged."
+      }
+    ]
+  },
+  "featureImg": "/assets/img/images/bikeLoopFeatured.png",
+  "bannerImg": "/assets/img/images/bikeLoopMainTrans.png",
+  "reference": {
+    "title": "References",
+    "references": [
+    ]
+  },
+  "preview": {
+    "title": "Use Cases ",
+    "previews": [
+      {
+        "title": "Station",
+        "imgUrl": "",
+        "text": "The JUHUU BikeLoop offers commuters and travelers at train stations a safe and convenient way to lock their bikes. Easy operation via the JUHUU app and space-saving installation make the BikeLoop the ideal solution for busy transport hubs.\n",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Residential",
+        "imgUrl": "",
+        "text": "In apartment buildings, the JUHUU BikeLoop provides additional safety and convenience for residents by offering a space-saving and cost-effective bicycle parking solution. Easy installation and app control allow residents to use the BikeLoop conveniently and safely.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Supermarkets and gastro",
+        "imgUrl": "",
+        "text": "The JUHUU BikeLoop makes it easier for customers of supermarkets and restaurants to safely park their bicycles while shopping or visiting a restaurant. The space-saving and cost-effective solution also promotes environmentally friendly bicycle traffic and increases customer satisfaction.",
+        "btnTxt": "",
+        "btnLink": ""
+      }, {
+        "title": "Educational institution",
+        "imgUrl": "",
+        "text": "JUHUU BikeLoop provides students and staff at schools and universities with a secure and user-friendly way to lock up their bikes. The space-saving installation and central app control make the BikeLoop the ideal solution for busy educational institutions that want to promote cycling.",
+        "btnTxt": "",
+        "btnLink": ""
+      }
+    ]
+  }
+}

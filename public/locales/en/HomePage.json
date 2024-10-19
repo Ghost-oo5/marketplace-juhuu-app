@@ -1,0 +1,101 @@
+{
+  "StartHeader": {
+    "main": {
+      "title": "Become part of the JUHUU app ecosystem for IoT applications",
+      "infoText": "JUHUU's app ecosystem enables you to easily and affordable access to the world of \"Internet of Things\". We integrate your product in a very uncomplicated way into the JUHUU app and WebApp.",
+      "buttonText": "Start"
+    }
+  },
+  "trustInJuhuu": "Trust in JUHUU",
+  "whyWorkwithJuhuu": {
+    "title": "Why companies work with JUHUU",
+    "text": "JUHUU is a cashless payment, control and administrative solution for SMEs, sole proprietorship and operators of automatic self-service machines. We offer you a complete solution that is adapted to your requirements. Starting with individualized control units, adapted software and optimized data evaluation."
+  },
+  "iconRow": {
+    "savecosts": "Up to 80% cost savings",
+    "savecostsTxt": "Save up to 80% of the development costs through integration into the JUHUU app and web application.",
+    "grow": "Increase in sales",
+    "growTxt": "Increase your sales through various advantages of the JUHUU features.",
+    "customize": "Customized",
+    "customizeTxt": "We adapt functions and design of your user interface as well as the coupled JUHUU hardware to your requirements."
+  },
+  "Keyfeatures": {
+    "title": "Keyfeatures",
+    "card": {
+      "1": {
+        "title": "Administration",
+        "text": "Automatic user, booking and invoice management. We automate large parts of the administration and reduce a considerable part of the administrative effort."
+      },
+      "2": {
+        "title": "Data processing",
+        "text": "With JUHUU Analytics you get access to our automatic data processing and have a good overview of important parameters."
+      },
+      "3": {
+        "title": "Interface integration (API)",
+        "text": "The JUHUU app can be integrated into its own system via an API. This allows you to use most JUHUU features and advantages in your own app."
+      },
+      "4": {
+        "title": "Easy to use",
+        "text": "Your customers can use your products/services in just a few clicks through the JUHUU app and the JUHUU WebApp."
+      }
+    }
+  },
+  "explainervideo": {
+    "title": "Explainer video"
+  },
+  "app": {
+    "title": "JUHUU app",
+    "section": {
+      "1": "The JUHUU app and web platform is an innovative software solution that, in combination with the different JUHUU hardware modules, automation, control and administrative tasks of IoT products, but also services.",
+      "2": "With the app, all customers have the option of paying and using their products/services in just a few clicks. A possible application are self -service machines. We develop an adapted user interface and special hardware modules for you",
+      "3": "We integrate your products/services into the JUHUU app and enable very light and cheap access to all functions and advantages of JUHUU.",
+      "4": "The JUHUU app is also available as a web application in the event that a user wants to continue without registration. In this case, when scanning the QR code, it is automatically forwarded to the web application where all basic functions are available."
+    },
+    "moreInfo": "More info"
+  },
+  "hardware": {
+    "title": "JUHUU hardware modules",
+    "text": "The JUHUU hardware modules connect their products to the JUHUU app and webapp. Our hardware boards have a modular structure, which means that the individual modules can be combined with each other depending on the use.",
+    "iot": {
+      "title": "IoT module",
+      "text": "The IoT module is our central communication unit that connects your product via the mobile network with our system. This module is the same with every application and thus enables easy and cheap scalability."
+    },
+    "steuermodule": {
+      "title": "Control module",
+      "text": "The control module takes over any tax and measurement functions that you need for your application. This board is specially adapted to the given requirements to ensure all freedoms."
+    },
+    "terminal": {
+      "title": "Card terminal",
+      "text": "With us you have the option of allowing various EC cards to allow \"analog\" payments in addition to the payment options in the app and webapp via a card terminal."
+    }
+  },
+  "analytics": {
+    "title": "JUHUU analytics",
+    "section": {
+      "1": "With JUHUU Analytics you get access to our automatic data processing software. This is connected to the JUHUU app and WebApp and, depending on the execution, can receive and evaluate various data and parameters.",
+      "2": "Here you can get an overview of important data such as sales, clock -to -date utilization, total load, etc. In addition, these can be illustrated in different visual forms of representation.",
+      "3": "The evaluation of various measuring parameters, for example, is also possible if you have the intended control board adjusted."
+    }
+  },
+  "btn": {
+    "products": "to the products",
+    "usecases": "to the UseCases"
+  },
+  "usecases": {
+    "title": "Usecases",
+    "text": "Here your text could stand that describes what the bike box does!",
+    "button": "To the use cases",
+    "echarging": {
+      "title": "Charging column Management Infrastructure"
+    },
+    "sb": {
+      "title": "JUHUU chrage"
+    },
+    "bikebox": {
+      "title": "Digital bike room"
+    },
+    "custome": {
+      "title": "Custom Usecase"
+    }
+  }
+}

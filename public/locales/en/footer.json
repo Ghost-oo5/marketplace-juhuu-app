@@ -1,0 +1,46 @@
+{
+  "SectionLogo": {
+    "community": {
+      "name": "Become part of the community!"
+    }
+  },
+  "SectionInfos": {
+    "CompanyName": "JUHUU BikeBox GmbH",
+    "telephone": {
+      "link": "Tel: +436604650442",
+      "pretty": "+43 660 465 0442"
+    },
+    "mail": {
+      "link": "mailto: office@juhuu.app",
+      "pretty": "office@juhuu.app"
+    },
+    "adress": {
+      "link": "https://goo.gl/maps/JPU9bJQKLD9UXTFD8",
+      "pretty": "Treustrasse 22-24, 1200 Vienna Austria"
+    }
+  },
+  "SectionImporant": {
+    "name": "Important",
+    "agb": {
+      "name": "Conditions"
+    },
+    "privacy": {
+      "name": "data protection"
+    },
+    "impressum": {
+      "name": "imprint"
+    },
+    "faq": {
+      "name": "FAQ"
+    },
+    "credits": {
+      "name": "Credits"
+    }
+  },
+  "SectionDownload": {
+    "name": "Download"
+  },
+  "SectionPartner": {
+    "name": "Partner of"
+  }
+}

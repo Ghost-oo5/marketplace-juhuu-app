@@ -1,0 +1,101 @@
+{
+  "StartHeader": {
+    "main": {
+      "title": "Werde Teil des JUHUU App-Ökosystems für IoT Anwendungen",
+      "infoText": "Das App-Ökosystem von JUHUU ermöglicht Ihnen einen leichten und günstigen Zugang in die Welt von \"Internet of Things\". Wir integrieren Ihr Produkt ganz unkompliziert in die JUHUU App und Webapp.",
+      "buttonText": "Starten"
+    }
+  },
+  "trustInJuhuu": "Vertrauen in JUHUU",
+  "whyWorkwithJuhuu": {
+    "title": "Warum Unternehmen mit JUHUU arbeiten",
+    "text": "JUHUU ist eine bargeldlose Zahlungs-, Steuerungs- und Verwaltungslösung für KMUs, Einzelunternehmen und Betreiber von Selbstbedienungsautomaten. Wir bieten Ihnen eine Komplettlösung, welche an Ihre Anforderungen angepasst wird. Angefangen von individualisierten Steuereinheiten, über angepasste Software und optimierte Datenauswertung."
+  },
+  "iconRow": {
+    "savecosts": "Bis zu 80% Kostenersparnis",
+    "savecostsTxt": "Sparen Sie sich bis zu 80% der Entwicklungskosten durch eine Integration in die JUHUU App und Webapplikation.",
+    "grow": "Umsatzsteigerung",
+    "growTxt": "Steigern Sie Ihre Umsätze durch diverse Vorteile der JUHUU Features.",
+    "customize": "Customized",
+    "customizeTxt": "Wir passen Funktionen und Design Ihres Nutzerinterfaces sowie die gekoppelte JUHUU Hardware an Ihre Anforderungen an."
+  },
+  "Keyfeatures": {
+    "title": "Keyfeatures",
+    "card": {
+      "1": {
+        "title": "Verwaltung",
+        "text": "Automatische Nutzer-, Buchungs-, und Rechnungsverwaltung. Wir automatisieren große Teile der Verwaltung und reduzieren einen beträchtlichen Teil des Verwaltungsaufwands."
+      },
+      "2": {
+        "title": "Datenverarbeitung",
+        "text": "Mit JUHUU Analytics erhalten Sie Zugang zu unserer automatischen Datenverarbeitung und haben einen guten Überblick über wichtige Parameter."
+      },
+      "3": {
+        "title": "Schnittstellenintegration (API)",
+        "text": "Die JUHUU App ist über eine API in Ihr eigenes System integrierbar. Damit können Sie die meisten JUHUU Features und Vorteile in Ihrer eigenen App nutzen."
+      },
+      "4": {
+        "title": "Easy To Use",
+        "text": "Ihre Kunden können deine Produkte/Services sowohl über die JUHUU App als auch über die JUHUU Webapp in wenigen Klicks nutzen."
+      }
+    }
+  },
+  "explainervideo": {
+    "title": "Explainer Video"
+  },
+  "app": {
+    "title": "JUHUU App",
+    "section": {
+      "1": "Die JUHUU App- und Webplattform ist eine innovative Softwarelösung, die in Kombination mit den unterschiedlichen JUHUU Hardwaremodulen Zahlungs-, Steuerungs-, und Verwaltungsaufgaben von IoT Produkte aber auch Dienstleistungen automatisiert und abwickelt. ",
+      "2": "Über die App haben alle  Kunden die Möglichkeit, Ihre Produkte/Dienstleistungen in wenigen Klicks zu bezahlen und zu nutzen. Eine mögliche Anwendung sind Selbsbedienungsautomaten. Wir entwickeln für Sie ein angepasstes Nutzerinterface und spezielle Hardwaremodule",
+      "3": "Wir integrieren Ihre Produkte/Dienstleistungen in die JUHUU App und ermöglichen einen sehr leichten und günstigen Zugang zu allen Funktionen und Vorteilen von JUHUU.",
+      "4": "Die JUHUU App gibt es auch als Webapplikation für den Fall, dass eine Nutzer*In  ohne Registrierung fortfahren möchte. In diesem Fall wird er/sie beim scannen des QR Codes automatisch auf die Webapplikation weitergeleitet wo alle Basisfunktionen zu Verfügung stehen."
+    },
+    "moreInfo": "Mehr Infos"
+  },
+  "hardware": {
+    "title": "JUHUU Hardwaremodule",
+    "text": "Die JUHUU Hardwaremodule verbinden Ihre Produkte mit der JUHUU App und Webapp.Unsere Hardwareplatinen haben einen modularen Aufbau, wodurch je nach Anwendung die Einzelnen Module miteinander kombinierbar sind.\n",
+    "iot": {
+      "title": "IoT Modul",
+      "text": "Das IoT Modul ist unsere zentrale Kommunikationseinheit, die Ihr Produkt über das Mobilfunknetz mit unserem System verbindet. Dieses Modul ist bei jeder Anwendung gleich und ermöglicht dadurch eine leichte und günstige Skalierbarkeit.\n"
+    },
+    "steuermodule": {
+      "title": "Steuermodul",
+      "text": "Das Steuermodul übernimmt jegliche Steuer- und Messfunktionen, welche Sie für Ihre Anwendung benötigen. Diese Platine wird speziell an die gegebenen Anforderungen angepasst, um Ihnen alle Freiheiten zu gewährleisten. \n"
+    },
+    "terminal": {
+      "title": "Kartenterminal",
+      "text": "Bei uns haben Sie die Möglichkeit, zusätzlich zu den Zahlungsmöglichkeiten in der App und Webapp auch \"Analoge\" Zahlungen, diverser EC Karten über ein Kartenterminal zuzulassen. "
+    }
+  },
+  "analytics": {
+    "title": "JUHUU Analytics",
+    "section": {
+      "1": "Mit JUHUU Analytics erhalten Sie Zugang zu unserer automatischen Datenverarbeitungssoftware. Diese ist mit der JUHUU App und Webapp verbunden und kann damit, je nach Ausführung, diverse Daten und Parameter empfangen und auswerten.\n",
+      "2": "Hier bekommen Sie einen Überblick über wichtige Daten wie Umsätze, Uhrzeitabhängige Auslastung, Gesamtauslastung, etc. Zusätzlich können diese in unterschiedlichen visuellen Darstellungsformen veranschaulicht werden.  ",
+      "3": "Die Auswertung diverser Messparameter zum Beispiel Temperatur, sind ebenfalls möglich, sofern Sie die dafür vorgesehene Steuerplatine anpassen haben lassen. "
+    }
+  },
+  "btn": {
+    "products": "zu den Produkten",
+    "usecases": "zu den UseCases"
+  },
+  "usecases": {
+    "title": "UseCases",
+    "text": "Hier könnte ihr Text stehen der beschreibt was die BikeBox macht !",
+    "button": "zu den UseCases",
+    "echarging": {
+      "title": "Ladesäulen Management Infrastruktur"
+    },
+    "sb": {
+      "title": "JUHUU Chrage"
+    },
+    "bikebox": {
+      "title": "Digitaler Fahrradraum"
+    },
+    "custome": {
+      "title": "Custom Usecase"
+    }
+  }
+}

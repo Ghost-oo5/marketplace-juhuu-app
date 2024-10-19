@@ -1,0 +1,57 @@
+{
+  "bikebox": {
+    "title": "JUHUU BikeBox",
+    "text": "Die JUHUU BikeBox ist eine über die JUHUU-App gesteuerte Fahrradbox, die ein diebstahlsicheres Abstellen des Fahrrads ermöglicht. Im Gegensatz zu herkömmlichen Fahrradparkern bietet die BikeBox vollständigen Schutz vor Diebstahl aller Fahrradkomponenten sowie vor Umwelteinflüssen und Vandalismus.",
+    "startBtnText": "Mehr erfahren",
+    "startBtnUrl": "/bikebox",
+    "mehrInfoText": "Mehr erfahren",
+    "mehrInfoBtnUrl": "/bikebox",
+    "imgUrl": "/assets/img/images/bikebox_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & Websteuerung"
+      },
+
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Zahlung über App oder Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reservieroption"
+      },
+      {
+        "iconUrl": "/assets/img/icons/plug_icon-min.png",
+        "txt": "Autarke Nutzung"
+      }
+    ]
+  },
+  "bikeroom": {
+    "title": "JUHUU MultiRoom",
+    "text": "Die BikeBox ist eine über die JUHUU-App gesteuerte Fahrradbox, die ein diebstahlsicheres Abstellen des Fahrrads ermöglicht. Im Gegensatz zu herkömmlichen Fahrradparkern bietet die BikeBox vollständigen Schutz vor Diebstahl aller Fahrradkomponenten sowie vor Umwelteinflüssen und Vandalismus.",
+    "startBtnText": "Mehr erfahren",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "mehrInfoText": "Mehr erfahren",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "imgUrl": "/assets/img/images/multi_room_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & Websteuerung"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Zahlung über App oder Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/seats.png",
+        "txt": "Platzzuweisung"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reservieroption"
+      }
+    ]
+  }
+}

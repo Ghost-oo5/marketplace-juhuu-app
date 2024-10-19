@@ -1,0 +1,21 @@
+{
+  "Header": {
+    "infoTitle": "Boost your Business with JUHUU",
+    "infoText": "Wollen Sie auch von den JUHUU Vorteilen und Features profitieren und damit ihr Business boosten?\nKontaktieren Sie uns und wir werden Ihnen helfen mit Ihrem Business einen Schritt voraus zu sein."
+  },
+  "Meeting": {
+    "infoTitle": "Mehr Infos?",
+    "infoText": "Kein Problem! Gerne können wir Ihnen in einem Online Meeting genauere Informationen zu Ihren Vorteilen mit JUHUU und dem Ablauf eines solchen Projekts geben. "
+  },
+  "Form": {
+    "infoTitle": "Nur eine kurze Frage?",
+    "infoText": "Kein Problem! Hinterlassen Sie die Frage im Kontaktformular und wir melden uns schnellst möglich bei Ihnen. Oder schreibe uns eine E-Mail",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "eMail": "E-Mail",
+    "Company": "Firma",
+    "Message": "Nachricht",
+    "Submit": "Absenden",
+    "Agreement": "Ich stimme zu, dass meine Angaben zur Beantwortung meiner Anfrage erhoben und verarbeitet werden. Weitere Informationen finden Sie in der Datenschutzerklärung."
+  }
+}

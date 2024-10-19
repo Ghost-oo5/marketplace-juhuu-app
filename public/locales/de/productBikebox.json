@@ -1,0 +1,124 @@
+{
+  "title": "JUHUU BikeBox",
+  "subtitle": "Unlock the Future of Bike Storage",
+  "trustInJuhuu": "Vertrauen in JUHUU",
+  "shortDesc": {
+    "title": "Kurzbeschreibung",
+    "text": "Die JUHUU BikeBox ist die ideale Fahrradstellplatzlösung für Unternehmen und Gemeinden. Mit ihrem robusten Design und der einfachen Verwaltung über die JUHUU App bieten Sie Kunden und Bürgern sichere und bequeme Fahrradparkplätze. Setzen Sie auf eine zukunftsorientierte, effiziente Lösung, die den Bedürfnissen des urbanen Lebens gerecht wird."
+  },
+  "features": {
+    "title": "Features",
+    "features": [
+      {
+        "title": "App Steuerung",
+        "text": "Nutzer können die BikeBox einfach und bequem über die JUHUU App öffnen und schließen. Betreiber erhalten Zugang zu Verwaltungsfunktionen, die die Verwaltung und Überwachung der BikeBox erleichtern.",
+        "iconUrl": "/assets/img/icons/new/ui-design.png"
+      },
+      {
+        "title": "Whitelabeling",
+        "text": "Wir bieten Ihnen die Möglichkeit, die JUHUU BikeBox mit Ihrem eigenen Branding zu versehen. Dies umfasst sowohl das Nutzerinterface der App als auch das Design der physischen BikeBox, um sie an Ihre Unternehmensidentität anzupassen.",
+        "iconUrl": "/assets/img/icons/new/paint-brush.png"
+      }, {
+        "title": "Sicherheit",
+        "text": "Die BikeBox verfügt über ein elektronisches Schloss, das über die JUHUU-App geöffnet und geschlossen werden kann. Bei einem unbefugten Öffnungsversuch alarmiert das Schloss den aktiven Nutzer, den Betreiber und uns als Anbieter. Zudem sorgt die integrierte Alarmsicherung für zusätzlichen Schutz und verhindert, dass Diebstähle unbemerkt bleiben.",
+        "iconUrl": "/assets/img/icons/new/lock.png"
+      },  {
+        "title": "Autark",
+        "text": "Dank der integrierten Akkus bleibt die BikeBox ein Jahr lang funktionsfähig. Die Akkus sind austauschbar und können wieder aufgeladen werden, um die Steuer- und Kommunikationsplatine sowie das Schloss am Laufen zu halten.",
+        "iconUrl": "/assets/img/icons/new/batterie-level.png"
+      }, {
+        "title": "Fundamentlos",
+        "text": "Die BikeBox benötigt kein gesondertes Fundament für die Installation. Schwerlastanker im vorhandenen Boden fixieren die Box und ermöglichen einen Niveauausgleich von bis zu 10 cm.",
+        "iconUrl": "/assets/img/icons/new/anker.png"
+      },{
+        "title": "Bezahlfunktion",
+        "text": "Die JUHUU App ermöglicht es, den Zugang zur BikeBox bequem und sicher über verschiedene Zahlungsmethoden abzurechnen.",
+        "iconUrl": "/assets/img/icons/new/credit-card.png"
+      }
+    ]
+  },
+  "ctaCard": {
+    "title": "Ready to change your game?",
+    "text": "Kontaktiere uns noch heute und entfalte das volle Potential!",
+    "btnText": "Kontakt",
+    "btnUrl": "/contact"
+  },
+  "problem": {
+    "title": "Problemlösungen",
+    "problems": [
+      {
+        "title": "Unsichere Fahrradabstellplätze",
+        "text": "Der JUHUU BikeBox bietet eine sichere und abgeschlossene Lösung zum Schutz von Fahrrädern und E-Bikes vor Diebstahl und Vandalismus."
+      },
+      {
+        "title": "Witterungseinflüsse",
+        "text": "Die JUHUU BikeBox schützt Fahrräder und E-Bikes vor Witterungseinflüssen, wodurch Schäden und Verschleiß verringert werden."
+      },
+      {
+        "title": "Fehlende Lademöglichkeiten",
+        "text": "Die JUHUU BikeBox bietet integrierte Lademöglichkeiten für E-Bikes, sodass diese während des Abstellens aufgeladen werden können."
+      },
+      {
+        "title": "Unzureichende Kapazität",
+        "text": "Durch das modulare Design der JUHUU BikeBox können mehrere Boxen installiert und bei Bedarf erweitert werden, um ausreichend Kapazität zu bieten."
+      },
+      {
+        "title": "Komplizierte Zugangssysteme",
+        "text": "Die JUHUU App ermöglicht eine einfache und bequeme Zugangskontrolle zur BikeBox ohne Schlüssel oder separate Karten."
+      },
+      {
+        "title": "Hohe Installationskosten",
+        "text": "JUHUU bietet kosteneffiziente Lösungen und unterstützt Unternehmen bei der Planung und Installation der BikeBoxen, um die Kosten so gering wie möglich zu halten."
+      },{
+        "title": "Wartung und Instandhaltung",
+        "text": "Der JUHUU BikeBox ist so konzipiert, dass er wartungsarm ist und bei Bedarf einfach instand gehalten werden kann. JUHUU bietet zudem Support und Serviceleistungen für die BikeBox."
+      }
+    ]
+  },
+  "featureImg": "/assets/img/images/bikebox_small.png",
+  "bannerImg": "/assets/img/images/bikebox_img.png",
+  "reference": {
+    "title": "Referenzen",
+    "references": [
+      {
+        "title": "Purkersdorf",
+        "imgUrl": "",
+        "text": "In Purkersdorf und Gablitz wurde erfolgreich das JUHUU BikeBox-Referenzprojekt umgesetzt, um sicheres Fahrradparken am Bahnhof zu ermöglichen. Das Pilotprojekt mit sieben BikeBoxen fördert den Radverkehr und erleichtert den Umstieg auf öffentliche Verkehrsmittel. Die innovativen BikeBoxen von JUHUU bieten den Bürgern eine komfortable und sichere Abstellmöglichkeit für ihre E-Bikes, wodurch die Umwelt geschont und die Lebensqualität in der Region verbessert wird.",
+        "btnTxt": "Mehr erfahren",
+        "btnLink": "https://docs.juhuu.app/newsroom/das-juhuu-referenzprojekt-in-purkersdorf-wie-sichere-fahrradabstellanlagen-den-fahrradverkehr-frdern"
+      }
+    ]
+  },
+  "preview": {
+    "title": "Use Cases ",
+    "previews": [
+      {
+        "title": "Bahnhof",
+        "imgUrl": "",
+        "text": "Die JUHUU BikeBox bietet Pendlern und Reisenden an Bahnhöfen eine sichere und geschützte Möglichkeit, ihre Fahrräder, insbesondere E-Bikes, abzustellen. Die abschließbaren Boxen schützen vor Diebstahl und Witterungseinflüssen und bieten gleichzeitig eine Lademöglichkeit für E-Bikes. Die einfache Bedienung über die JUHUU App macht die BikeBox zur idealen Lösung für stark frequentierte Verkehrsknotenpunkte.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Wohnhausanlagen",
+        "imgUrl": "",
+        "text": "In Wohnhausanlagen sorgt die JUHUU BikeBox für zusätzliche Sicherheit und Komfort für die Bewohner, indem sie eine geschützte und sichere Fahrradparklösung bietet. Die abschließbaren Boxen bieten Platz für E-Bikes und ermöglichen das bequeme Laden der Akkus. Die einfache Installation und App-Steuerung ermöglichen den Bewohnern eine komfortable und sichere Nutzung der BikeBox.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Bike Sharing",
+        "imgUrl": "",
+        "text": "Das JUHUU BikeBox-System eignet sich hervorragend für E-BikeSharing-Anbieter, die ihren Kunden eine sichere und geschützte Abstellmöglichkeit für die E-Bikes bieten möchten. Die abschließbaren Boxen schützen die E-Bikes vor Diebstahl und Witterungseinflüssen und ermöglichen gleichzeitig das bequeme Laden der Akkus. Die zentrale App-Steuerung ermöglicht den Kunden eine einfache und nahtlose Nutzung des E-BikeSharing-Angebots.",
+        "btnTxt": "",
+        "btnLink": ""
+      }, {
+        "title": "Firmenparkplätze und Bürogebäude",
+        "imgUrl": "",
+        "text": "Die JUHUU BikeBox ist eine ausgezeichnete Lösung für Firmenparkplätze und Bürogebäude, die ihren Mitarbeitern eine sichere und bequeme Möglichkeit bieten möchten, ihre Fahrräder und E-Bikes während der Arbeitszeit abzustellen. Die abschließbaren Boxen schützen die Fahrräder vor Diebstahl und Witterungseinflüssen und bieten gleichzeitig eine Lademöglichkeit für E-Bikes. Die einfache Bedienung über die JUHUU App und die Möglichkeit, mehrere Boxen auf dem Firmengelände zu installieren, erhöhen die Attraktivität des Arbeitsplatzes und fördern nachhaltige Mobilität.",
+        "btnTxt": "",
+        "btnLink": ""
+      }
+    ]
+  }
+}

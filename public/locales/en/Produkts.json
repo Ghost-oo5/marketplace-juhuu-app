@@ -1,0 +1,56 @@
+{
+  "bikebox": {
+    "title": "JUHUU BikeBox",
+    "text": "The JUHUU BikeBox is a bicycle box controlled via the JUHUU app, which enables the theft-proof parking of the bike. In contrast to conventional bicycle parks, the BikeBox offers complete protection against theft of all bicycle components as well as environmental influences and vandalism.",
+    "startBtnText": "Learn more",
+    "startBtnUrl": "/bikebox",
+    "mehrInfoText": "Learn more",
+    "mehrInfoBtnUrl": "/bikebox",
+    "imgUrl": "/assets/img/images/bikebox_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & web control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Payment via app or web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reserving option"
+      },
+      {
+        "iconUrl": "/assets/img/icons/plug_icon-min.png",
+        "txt": "Self -sufficient use"
+      }
+    ]
+  },
+  "bikeroom": {
+    "title": "JUHUU multiroom",
+    "text": "The BikeBox is a bicycle box controlled via the JUHUU app, which enables the theft-proof parking of the bike. In contrast to conventional bicycle parks, the BikeBox offers complete protection against theft of all bicycle components as well as environmental influences and vandalism.",
+    "startBtnText": "Learn more",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "mehrInfoText": "Learn more",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "imgUrl": "/assets/img/images/multi_room_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & web control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Payment via app or web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/seats.png",
+        "txt": "Place assignment"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reserving option"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Produkte & Use Cases",
+  "previews": [{
+    "title": "BikeBox",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/bikebox",
+    "text": "Die JUHUU BikeBox ist die ideale Fahrradstellplatzlösung für Unternehmen und Gemeinden. Mit ihrem robusten Design und der einfachen Verwaltung über die JUHUU App bieten Sie Kunden und Bürgern sichere und bequeme Fahrradparkplätze. Setzen Sie auf eine zukunftsorientierte, effiziente Lösung, die den Bedürfnissen des urbanen Lebens gerecht wird."
+  },{
+    "title": "BikeLoop",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikeLoopMainTrans.png",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/bikeloop",
+    "text": "Der JUHUU BikeLoop ist ein stationäres, sicheres und intelligentes Schlosssystem für Fahrräder, das an vorhandenen Fahrradständern oder einer Wand befestigt werden kann. Mit einem robusten Stahlseil und IoT-Technologie ausgestattet, ermöglicht der BikeLoop den Nutzern, ihr Fahrrad bequem über die JUHUU App zu sichern und zu öffnen. Die integrierte Alarmfunktion erhöht die Sicherheit zusätzlich, indem sie bei Manipulationen am Stahlseil umgehend Benachrichtigungen verschickt und einen akustischen Alarm auslöst."
+  },{
+    "title": "MultiRoom",
+    "subtitle": "Die digitalste BikeBox der Welt",
+    "imgUrl": "/assets/img/images/bike_station-min.jpg",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/multiroom",
+    "text": "Das JUHUU MultiRoom-System ist die innovative Lösung für sicheres und komfortables Zugangsmanagement in gemeinschaftlich genutzten Räumen. Egal ob Fahrradräume, Seminarräumen, Parkräumen oder Gemeinschaftsräume – das MultiRoom-System vereinfacht den Zugang und steigert die Effizienz. Dank der JUHUU App und der benutzerfreundlichen Oberfläche können Berechtigungen einfach verwaltet und kontrolliert werden. Mit individuell anpassbaren Lösungen, die perfekt auf die Bedürfnisse von Unternehmen und Gemeinden zugeschnitten sind, wird das JUHUU MultiRoom-System zum unverzichtbaren Helfer im modernen Raummanagement."
+  }
+  ]
+}

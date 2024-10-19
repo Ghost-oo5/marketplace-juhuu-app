@@ -1,0 +1,127 @@
+{
+  "header": {
+    "title": "Die digitalste Bikebox der Welt.",
+    "subtitle": "Mit einer einzigartigen Form."
+  },
+  "los_gehts": {
+    "title": "Los geht's",
+    "kurzfassungTitel": "Kurzfassung",
+    "kurzfassungText": " Eine JUHUU BikeBox ist ein Spind aus Metall, in dem du dein Bike parken kannst.\n                            Während du also beim Supermarkt, auf der Arbeit, im Kino oder in den Öffis bist,\n                            ist dein Bike bei uns sicher.",
+    "mietenTitel": "Mieten",
+    "mietenText": "JUHUU BikeBoxen kannst du mit unserer App ganz einfach mieten. Entweder spontan,\n                            wenn du an einer unserer JUHUU BikeBoxen vorbeikommst oder für einen längeren\n                            Zeitraum, also z.B. mehrere Monate.",
+    "reservierenTitel": "Reservieren",
+    "reservierenText": " Natürlich kannst du unsere BikeBoxen auch reservieren, damit du dir sicher sein\n                            kannst, das eine für dich frei sein wird.",
+    "heading1": "Was macht JUHUU besser?",
+    "text1": "Unser leistungstarkes IT-System hebt uns vom Mitbewerb ab. So können Nutzer über unsere App\n                binnen Sekunden eine neue BikeBox mieten, eine gemietete zurückgeben, langzeitmieten,\n                reservieren, etc.",
+    "text2": "JUHUU BikeBox ist die digitalste der Welt.",
+    "text3": "Anbieter wie Google Maps, Wegfinder und viele andere können unsere BikeBoxen ganz einfach in ihr\n                System integrieren.",
+    "text4": "Die Anbindung beginnt im Sommer.",
+    "heading2": "BikeBoxen für Ihr Unternehmen",
+    "text5": "Berechtigungen, Preise, Rabatte und Parkzeiten können individuell angepasst werden. Somit\n                ergeben sich endlose Möglichkeiten, wir Ihre Mitarbeiter Ihre BikeBoxen mieten\n                können.",
+    "text6": "Das macht uns so schnell niemand nach.",
+    "text7": "Ob Mitarbeiter nur kurzzeitmieten, ausschließlich langzeitmieten, oder kostenlos parken, bleibt\n                völlig Ihnen überlassen. Unser System ist so individuell wir Ihr Unternehmen. Buchen Sie noch\n                heute ein Beratungsgespräch, wir kommen vorbei und nehmen unsere beiden Miniatur-BikeBoxen\n                mit.",
+    "text8": "Ihre BikeBoxen sollen für Außenstehende versperrt bleiben? - Kein Problem"
+  },
+  "stories": {
+    "title": "Stories",
+    "left": "Tim wohnt außerhalb von Wien und fährt deshalb immer mit dem Auto zur S-Bahn, um von\n                        dort öffentlich weiterzufahren. Das Problem ist, dass er dort nur 3h parken darf und\n                        deshalb nie besonders lang ausbleiben kann. Außerdem ist er noch in der Probezeit und\n                        möchte sich deshalb, verständlicherweise, keinesfalls am Spritzerstand seiner Uni etwas\n                        kaufen. Sein Bike ist ihm viel zu wertvoll, um es bei der S-Bahn-Station anzuketten.",
+    "right": "Lisa ist Angestellte einer Bank und fährt dort täglich mit dem Fahrrad hin.\n                        Während des Arbeitens, schließt sie ihr Bike mit einem Vorhängeschloss ab -\n                        alibihalber, da ohnehin Teile gestohlen werden. Auch egal, der Drahtesel hat eh\n                        nur 30€ im Internet gekostet."
+  },
+  "app": {
+    "title": "App",
+    "subtitle": "Das Tüpfelchen auf dem i",
+    "text": "App downloaden, Account erstellen, JUHUU BikeBox® scannen, Bike parken. Die App erklärt dir Schritt für Schritt wie es geht und macht es ganz einfach, unsere BikeBoxen zu mieten.",
+    "mobiletxt": "BikeBox scannen, Bike parken",
+    "desktoptxt": "unsere App gibt's auch für's Tablet"
+  },
+  "soindividuell": {
+    "title": "So individuell wie du",
+    "subtitle": "JUHUU BikeBoxen passen überall hin.",
+    "text": "JUHUU BikeBoxen sind die ersten BikeBoxen am Markt, die kein Fundament benötigen und trotzdem an jede Location angepasst werden können. Die einizgartige Form der JUHUU BikeBoxen, ermöglicht uns, sie in jedes Stadtbild zu integrieren.",
+    "card1": {
+      "title": "So individuell wie du",
+      "text": "Die JUHUU BikeBoxen können in jeder beliebigen RAL-Farbe bestellt werden."
+    },
+    "card2": {
+      "title": "Form",
+      "text": "Dank der einzigartigen Form, können JUHUU BikeBoxen in beliebigen Anordnungen aufgestellt werden."
+    },
+    "card3": {
+      "title": "Fundament",
+      "text": "Egal ob Schotter, Asphalt oder Beton, die JUHUU BikeBoxen brauchen kein Fundament und stehen trotzdem gerade."
+    },
+    "title2": "Das macht JUHUU BikeBox aus",
+    "txtCol": {
+      "col1": "Die einzigartige Form erlaubt es unseren Kunden, Ihre BikeBoxen in beliebigen Anordnungen aufzustellen. So passen sich JUHUU BikeBoxen an Ihren Standort perfekt an. CUBE ist ideal für lange",
+      "col2": "Geraden und entlang von Wänden. Mit PRISM hingegen, lassen sich interessante Anordnungen ganz einfach umsetzten. PRISM CIRCLE, ein Kreis aus 12 BikeBoxen oder PRISM TIER, abwechselnd",
+      "col3": "gegenüberstehende BikeBoxen, sind am beliebtesten. Natürlich lassen sich CUBE und PRISM BikeBoxen auch miteinander kombinieren. Im Folgenden sind einige Ideen vorgeführt."
+    },
+    "preview": "So könnte es bei Ihnen aussehen"
+  },
+  "firlefanz": {
+    "title": "Kein Firlefanz - einfach sexy",
+    "text": "Schließt man unsere BikeBox, sieht man von außen nichts. Die Tür ist zu, das Bike ist weg. Nur Griff und QR-Code sind zu sehen. Weit und breit kein Schlüsselloch, Zahlenschloss oder Münzeinwurf.",
+    "subtitle": "Wozu aufbrechen, wenn man nicht weiß, was drin ist?\n",
+    "werbung": "Werbung",
+    "col1": "Dank des einzigartigen Looks, der smoothen Tür und den hunderten verfügbaren RAL-Farben, passen sich unsere JUHUU BikeBoxen an beinahe jedes Stadtbild an. Zu schade, dass sie ideal als Werbefläche genützt werden können.",
+    "col2": "Aber nicht nur das, neben den physichen JUHUU BikeBoxen bietet sich für Ihre Werbung auch ausreichend Platz in unserer App. Etwa wenn man sich eine JUHUU BikeBox reserviert oder langzeitmietet."
+  },
+  "zumbike": {
+    "title": "Hallo zum E-Bike, hallo zum Aufladen",
+    "subtitle": "Mit JUHUU BikeBoxen ist das alles kein Problem.",
+    "col1": {
+      "title": "Schutz vor Diebstahl",
+      "text": "JUHUU BikeBoxen sind mit einer Alarmanlage ausgestattet. Wenn jemand die Tür aufbricht, ertönt ein akustisches Signal und der Mieter der JUHUU BikeBox wird benachrichtigt."
+    },
+    "col2": {
+      "title": "Schutz vor Witterung",
+      "text": "Sämtliche Elektronikkomponenten in einer JUHUU BikeBox sind Staub- und Spritzwasser geschützt. Auch wenn es draußen gewittert oder dein Bike nass ist, kannst du JUHUU BikeBoxen verwenden."
+    },
+    "text1": "JUHUU BikeBoxen werden in Österreich entwickelt und in Bulgarien hergestellt. Um auch in Zukunft ein wirtschaftlich starkes Europa zu haben. Durch die Verlagerung unserer Produktion in ein europäisches Land, konnten wir unseren CO2 Ausstoß weiter senken. Wir sind stehts bemüht, neue innovative Lösungen zur Reduktion von Treibhausgasen zu implementieren und legen großen Wert auf grünen Strom und eine saubere Umwelt. Deshalb werden 100% unserer Server mit Ökostrom versorgt.",
+    "qualitaet": "Qualität",
+    "text2": "Die hohen Standards unserer Produzenten haben einen großen Einfluss auf unsere Produkte. JUHUU BikeBoxen sind dicker, hochwertiger und widerstandsfähiger als jede andere Fahrradgarage am Markt. JUHUU BikeBoxen haben eine Mindestlebensdauer von 10 Jahren. Ein langlebiges Produkt wirkt sich abermals positiv auf unsere Umwelt aus.",
+    "maps": "Hier werden die JUHUU BikeBoxen produziert.\n\n"
+  },
+  "stockpaker": {
+    "title": "JUHUU PRISM vs. Doppelstockparker",
+    "text1": "Aufgrund der extra kleinen Grundfläche und der Vielzahl an Anordnungsmöglichkeiten einer JUHUU PRISM BikeBox, nehmen JUHUU PRISM BikeBoxen weniger Platz pro Fahrrad ein.",
+    "text2": "Aufgrund der Platzersparnis von rund 20%, können auf einer geringeren Fläche mehr Fahrräder untergebracht werden, wenn statt Doppelstockparkern JUHUU PRISM BikeBoxen verwendet werden.",
+    "text3": "JUHUU PRISM BikeBoxen ermöglichen ein deutlich ergonomerisches Handling, da man nicht über Brusthöhe arbeiten muss und die PRISM BikeBox auch betreten kann. Aufgrund der einfacheren Konstruktion, sind JUHUU PRISM BikeBoxen wartungsarmer.",
+    "image_sub": "zwei JUHUU PRISM und ein Doppelstockparker"
+  },
+  "ueberblick": {
+    "title": "Features im Überblick",
+    "row1col1": {
+      "title": "Ride & Park",
+      "text": "Nutze dein Bike als tägliches Verkehrsmittel und mach dir keine Sorgen um Sicherheit und Vandalismus.\n\n"
+    },
+    "row1col2": {
+      "title": "Save the Planet",
+      "text": "Trage deinen Teil gegen den Klimawandel bei und setze auf CO2 neutrale Mobilität. Mit der regelmäßigen Nutzung deines Fahrrads kannst du bis zu 300 kg CO2 im Jahr einsparen."
+    },
+    "row2col1": {
+      "title": "Innovativ",
+      "text": "Die JUHUU BikeBoxen gibt es mit innovativen elektrischen Schlössern, die Schlüssel überflüssig machen. Stattdessen kannst du deine BikeBox mittels App entsperren."
+    },
+    "row2col2": {
+      "title": "Resistent",
+      "text": "Unsere BikeBoxen bestehen aus 2 mm dickem Stahlblech. So können wir höchstmögliche Sicherheit für dein Bike garantieren."
+    },
+    "row3col1": {
+      "title": "Strom",
+      "text": "Nutze die intergierte Ladesäule, um dein E-Bike aufzuladen."
+    },
+    "row3col2": {
+      "title": "Smartphone-App",
+      "text": "Zurzeit entwickeln wir eine Smartphone-App, mit der du deine BikeBox öffnen kannst. dein Handy hast du immer dabei, während du deine Chipkarte vielleicht zu Hause vergisst."
+    },
+    "row4col1": {
+      "title": "Batterien",
+      "text": "Wenn der Strom ausfällt, können die BikeBoxen weiterhin benützt werden."
+    }
+  },
+  "technischedaten": {
+    "title": "Technische Daten",
+    "txt": "Für eine Übersicht über die technischen Voraussetzungen für einen JUHUU BikeBox Standort, senden Sie uns bitte eine E-Mail an "
+  }
+}

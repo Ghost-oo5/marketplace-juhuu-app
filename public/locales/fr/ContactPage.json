@@ -1,0 +1,21 @@
+{
+  "Header": {
+    "infoTitle": "Boostez votre entreprise avec JUHUU",
+    "infoText": "Voulez-vous également bénéficier des avantages et des fonctionnalités de JUHUU et ainsi booster votre entreprise? \n Contactez-nous et nous vous aiderons à avoir une longueur d'avance avec votre entreprise."
+  },
+  "Meeting": {
+    "infoTitle": "Plus d'informations?",
+    "infoText": "Aucun problème! Nous sommes heureux de vous fournir des informations plus détaillées sur vos avantages avec JUHUU et le cours d'un tel projet lors d'une réunion en ligne."
+  },
+  "Form": {
+    "infoTitle": "Juste une courte question?",
+    "infoText": "Aucun problème! Laissez la question dans le formulaire de contact et nous vous contacterons dès que possible. Ou écrivez-nous un e-mail",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "eMail": "e-mail",
+    "Company": "entreprise",
+    "Message": "Nouvelles",
+    "Submit": "Envoyer",
+    "Agreement": "Je suis d'accord que mes informations pour répondre à ma demande sont collectées et traitées. Pour plus d'informations, consultez la déclaration de protection des données."
+  }
+}

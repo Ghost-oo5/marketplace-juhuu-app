@@ -1,0 +1,40 @@
+{
+  "title": "Produkte & Use Cases",
+  "previews": [{
+    "title": "MultiRoom",
+    "subtitle": "Die digitalste BikeBox der Welt",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/multiroom",
+    "text": "Das JUHUU MultiRoom-System ist die innovative Lösung für sicheres und komfortables Zugangsmanagement in gemeinschaftlich genutzten Räumen. Egal ob Fahrradräume, Seminarräumen, Parkräumen oder Gemeinschaftsräume – das MultiRoom-System vereinfacht den Zugang und steigert die Effizienz. Dank der JUHUU App und der benutzerfreundlichen Oberfläche können Berechtigungen einfach verwaltet und kontrolliert werden. Mit individuell anpassbaren Lösungen, die perfekt auf die Bedürfnisse von Unternehmen und Gemeinden zugeschnitten sind, wird das JUHUU MultiRoom-System zum unverzichtbaren Helfer im modernen Raummanagement."
+  },{
+    "title": "BikeLoop",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/bikeloop",
+    "text": "Der JUHUU BikeLoop ist ein stationäres, sicheres und intelligentes Schlosssystem für Fahrräder, das an vorhandenen Fahrradständern oder einer Wand befestigt werden kann. Mit einem robusten Stahlseil und IoT-Technologie ausgestattet, ermöglicht der BikeLoop den Nutzern, ihr Fahrrad bequem über die JUHUU App zu sichern und zu öffnen. Die integrierte Alarmfunktion erhöht die Sicherheit zusätzlich, indem sie bei Manipulationen am Stahlseil umgehend Benachrichtigungen verschickt und einen akustischen Alarm auslöst."
+  },{
+    "title": "App Kit",
+    "subtitle": "Die digitalste BikeBox der Welt",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/app_kit",
+    "text": "Das JUHUU App Kit bietet Unternehmen eine leistungsstarke und kostengünstige Lösung ihre Produkte und Dienstleistungen nahtlos in die JUHUU App zu integrieren. Durch die Entwicklung maßgeschneiderter Funktionen und angepasster Hardware ermöglichen wir es Ihnen, ihre Geschäftsprozesse zu optimieren und ihr Angebot auf effiziente Weise zu erweitern. Mit der Integration in die JUHUU App profitieren sie von den zahlreichen Vorteilen, die unsere Plattform bietet, wie zum Beispiel einer verbesserten Kundenbindung, einer benutzerfreundlichen Bedienung und der Möglichkeit, ihre Produkte einem breiteren Publikum zugänglich zu machen."
+  },{
+    "title": "BikeBox",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/bikebox",
+    "text": "Die JUHUU BikeBox ist die ideale Fahrradstellplatzlösung für Unternehmen und Gemeinden. Mit ihrem robusten Design und der einfachen Verwaltung über die JUHUU App bieten Sie Kunden und Bürgern sichere und bequeme Fahrradparkplätze. Setzen Sie auf eine zukunftsorientierte, effiziente Lösung, die den Bedürfnissen des urbanen Lebens gerecht wird."
+  },{
+    "title": "BikeBox Extension Kit",
+    "subtitle": "Secure and highly scalable",
+    "imgUrl": "/assets/img/images/bikebox_img.png",
+    "btnTxt": "Mehr erfahren",
+    "btnLink": "/products/bikebox_extension_kit",
+    "text": "Das JUHUU BikeBox Extension Kit ist eine innovative Lösung, um bestehende Fahrradboxen in ein modernes, digitales System zu integrieren. Mit diesem Kit bringen Sie ältere Fahrradboxen auf den neuesten Stand der Technik, integrieren sie nahtlos in das JUHUU App-Ökosystem und erhalten dadurch alle Softwarefeatures der JUHUU App. Nachhaltigkeit und Konformität werden durch die Nutzung vorhandener Hardware gefördert, wodurch ein einheitliches Fahrradinfrastruktursystem entsteht, ohne dass alte Hardware entsorgt werden muss."
+  }
+  ]
+}

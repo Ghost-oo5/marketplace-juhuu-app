@@ -1,0 +1,56 @@
+{
+  "bikebox": {
+    "title": "Bikebox JUHUU",
+    "text": "Le Bikebox JUHUU est une boîte à vélo contrôlée via l'application JUHUU, qui permet le parking à feuilles de vol du vélo. Contrairement aux parcs de vélo conventionnels, le vélo offre une protection complète contre le vol de tous les composants du vélo ainsi que les influences environnementales et le vandalisme.",
+    "startBtnText": "Apprendre encore plus",
+    "startBtnUrl": "/bikebox",
+    "mehrInfoText": "Apprendre encore plus",
+    "mehrInfoBtnUrl": "/bikebox",
+    "imgUrl": "/assets/img/images/bikebox_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "Application et contrôle Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Paiement via l'application ou le Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Option de réserve"
+      },
+      {
+        "iconUrl": "/assets/img/icons/plug_icon-min.png",
+        "txt": "Utilisation auto-suffisante"
+      }
+    ]
+  },
+  "bikeroom": {
+    "title": "JUHUU Multiroom",
+    "text": "Le Bikebox est une boîte à vélo contrôlée via l'application JUHUU, qui permet le parking à feuilles de vol du vélo. Contrairement aux parcs de vélo conventionnels, le vélo offre une protection complète contre le vol de tous les composants du vélo ainsi que les influences environnementales et le vandalisme.",
+    "startBtnText": "Apprendre encore plus",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "mehrInfoText": "Apprendre encore plus",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "imgUrl": "/assets/img/images/multi_room_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "Application et contrôle Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Paiement via l'application ou le Web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/seats.png",
+        "txt": "Affectation"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Option de réserve"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "StartHeader": {
+    "main": {
+      "title": "Faites partie de l'écosystème de l'application JUHUU pour les applications IoT",
+      "infoText": "L'écosystème de l'application de JUHUU vous permet d'accès facilement et abordable au monde de \"l'Internet des objets\". Nous intégrons votre produit d'une manière très simple dans l'application JUHUU et WebApp.",
+      "buttonText": "Commencer"
+    }
+  },
+  "trustInJuhuu": "Faites confiance à JUHUU",
+  "whyWorkwithJuhuu": {
+    "title": "Pourquoi les entreprises travaillent avec JUHUU",
+    "text": "JUHUU est une solution de paiement, de contrôle et administrative sans espèces pour les PME, la propriété individuelle et les opérateurs de machines en libre-service automatique. Nous vous proposons une solution complète adaptée à vos besoins. En commençant par des unités de contrôle individualisées, des logiciels adaptés et une évaluation optimisée des données."
+  },
+  "iconRow": {
+    "savecosts": "Des économies de coûts jusqu'à 80%",
+    "savecostsTxt": "Économisez jusqu'à 80% des coûts de développement grâce à l'intégration dans l'application JUHUU et l'application Web.",
+    "grow": "Augmentation des ventes",
+    "growTxt": "Augmentez vos ventes à travers divers avantages des fonctionnalités de JUHUU.",
+    "customize": "Personnalisé",
+    "customizeTxt": "Nous adaptons les fonctions et la conception de votre interface utilisateur ainsi que le matériel JUHUU couplé à vos besoins."
+  },
+  "Keyfeatures": {
+    "title": "Principales caractéristiques",
+    "card": {
+      "1": {
+        "title": "Administration",
+        "text": "Utilisateur automatique, réservation et gestion des factures. Nous automatisons de grandes parties de l'administration et réduisons une partie considérable de l'effort administratif."
+      },
+      "2": {
+        "title": "Traitement de l'information",
+        "text": "Avec JUHUU Analytics, vous avez accès à notre traitement automatique des données et avez un bon aperçu des paramètres importants."
+      },
+      "3": {
+        "title": "Intégration d'interface (API)",
+        "text": "L'application JUHUU peut être intégrée dans son propre système via une API. Cela vous permet d'utiliser la plupart des fonctionnalités et avantages de JUHUU dans votre propre application."
+      },
+      "4": {
+        "title": "Facile à utiliser",
+        "text": "Vos clients peuvent utiliser vos produits / services en quelques clics sur l'application JUHUU et le JUHUU WebApp."
+      }
+    }
+  },
+  "explainervideo": {
+    "title": "Vidéo explicative"
+  },
+  "app": {
+    "title": "Application JUHUU",
+    "section": {
+      "1": "L'application JUHUU et la plate-forme Web sont une solution logicielle innovante qui, en combinaison avec les différents modules matériels JUHUU, l'automatisation, le contrôle et les tâches administratives des produits IoT, mais aussi des services.",
+      "2": "Avec l'application, tous les clients ont la possibilité de payer et d'utiliser leurs produits / services en quelques clics. Une application possible est des machines d'auto-service. Nous développons une interface utilisateur adaptée et des modules matériels spéciaux pour vous",
+      "3": "Nous intégrons vos produits / services dans l'application JUHUU et permettons un accès très léger et bon marché à toutes les fonctions et avantages de JUHUU.",
+      "4": "L'application JUHUU est également disponible en tant qu'application Web dans le cas où un utilisateur souhaite continuer sans inscription. Dans ce cas, lors de la numérisation du code QR, il est automatiquement transmis à l'application Web où toutes les fonctions de base sont disponibles."
+    },
+    "moreInfo": "Plus d'informations"
+  },
+  "hardware": {
+    "title": "Modules matériels JUHUU",
+    "text": "Les modules matériels JUHUU connectent leurs produits à l'application JUHUU et à WebApp. Nos planches matérielles ont une structure modulaire, ce qui signifie que les modules individuels peuvent être combinés les uns avec les autres en fonction de l'utilisation.",
+    "iot": {
+      "title": "Module IoT",
+      "text": "Le module IoT est notre unité de communication centrale qui connecte votre produit via le réseau mobile avec notre système. Ce module est le même avec chaque application et permet ainsi une évolutivité facile et bon marché."
+    },
+    "steuermodule": {
+      "title": "Module de controle",
+      "text": "Le module de contrôle reprend toutes les fonctions d'impôt et de mesure dont vous avez besoin pour votre application. Ce conseil est spécialement adapté aux exigences données pour garantir toutes les libertés."
+    },
+    "terminal": {
+      "title": "Borne de cartes",
+      "text": "Avec nous, vous avez la possibilité d'autoriser diverses cartes EC pour autoriser les paiements \"analogiques\" en plus des options de paiement dans l'application et WebApp via un terminal de carte."
+    }
+  },
+  "analytics": {
+    "title": "Analytique JUHUU",
+    "section": {
+      "1": "Avec JUHUU Analytics, vous avez accès à notre logiciel de traitement des données automatique. Ceci est connecté à l'application JUHUU et WebApp et, selon l'exécution, peut recevoir et évaluer diverses données et paramètres.",
+      "2": "Ici, vous pouvez obtenir un aperçu des données importantes telles que les ventes, l'utilisation d'horloge à dates, la charge totale, etc. En outre, celles-ci peuvent être illustrées dans différentes formes visuelles de représentation.",
+      "3": "L'évaluation de divers paramètres de mesure, par exemple, est également possible si vous avez ajusté la carte de contrôle prévue."
+    }
+  },
+  "btn": {
+    "products": "vers les produits",
+    "usecases": "vers les cas d'utilisation"
+  },
+  "usecases": {
+    "title": "Usécases",
+    "text": "Ici, votre texte pourrait supporter qui décrit ce que fait la boîte à vélo!",
+    "button": "Aux cas d'utilisation",
+    "echarging": {
+      "title": "Infrastructure de gestion des colonnes de charge"
+    },
+    "sb": {
+      "title": "JUHUU Chrage"
+    },
+    "bikebox": {
+      "title": "Salle de vélo numérique"
+    },
+    "custome": {
+      "title": "USECASE personnalisé"
+    }
+  }
+}

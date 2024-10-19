@@ -1,0 +1,127 @@
+{
+  "header": {
+    "title": "La boîte à vélos le plus numérique au monde.",
+    "subtitle": "Avec une forme unique."
+  },
+  "los_gehts": {
+    "title": "Nous y voilà",
+    "kurzfassungTitel": "version courte",
+    "kurzfassungText": "Un vélo JUHUU est un casier en métal dans lequel vous pouvez garer votre vélo. \n                             Ainsi, pendant que vous êtes au supermarché, au travail, au cinéma ou dans le public \n                             Votre vélo est en sécurité avec nous.",
+    "mietenTitel": "Louer",
+    "mietenText": "Vous pouvez facilement louer des boîtes à vélos JUHUU avec notre application. Soit spontanément, \n                             Si vous passez devant l'une de nos boîtes à vélos JUHUU ou pour une plus longue \n                             Période, par exemple plusieurs mois.",
+    "reservierenTitel": "Réservations",
+    "reservierenText": "Bien sûr, vous pouvez également réserver nos boîtes à vélos pour que vous soyez sûr \n                             peut être gratuit pour vous.",
+    "heading1": "Qu'est-ce qui rend JUHUU meilleur?",
+    "text1": "Notre puissant système informatique nous élève de la concurrence. Afin que les utilisateurs puissent utiliser notre application \n                 Louez un nouveau boîtier à vélos en quelques secondes, renvoyez un loyers loué, à long terme, \n                 Réserve, etc.",
+    "text2": "JUHUU Bikebox est le plus numérique au monde.",
+    "text3": "Des fournisseurs tels que Google Maps, Wegfinder et bien d'autres peuvent facilement aller dans leurs boîtes à vélo \n                 Intégrer le système.",
+    "text4": "La connexion commence en été.",
+    "heading2": "Boîtes à vélo pour votre entreprise",
+    "text5": "Les permis, les prix, les remises et les heures de stationnement peuvent être ajustés individuellement. À ce sujet \n                 Il y a des possibilités infinies de louer vos employés vos boîtes à vélo \n                 peut.",
+    "text6": "Personne ne fait ça rapidement.",
+    "text7": "Que les employés uniquement des loyers à court terme, des loyers exclusivement à long terme ou un stationnement gratuitement, demeure gratuitement \n                 complètement laissé à eux. Notre système est si individuel que nous votre entreprise. Livre encore \n                 Aujourd'hui une consultation, nous venons et prenons nos deux boîtes à vélo miniatures \n                 avec.",
+    "text8": "Vos boîtes à vélo doivent rester bloquées pour les étrangers? - Aucun problème"
+  },
+  "stories": {
+    "title": "Histoires",
+    "left": "Tim vit à l'extérieur de Vienne et se rend donc toujours au S-bahn en voiture pour \n                         pour continuer à faire de la publicité là-bas. Le problème est qu'il ne peut y garer que 3 heures et \n                         Par conséquent, il ne peut jamais être laissé très longtemps. De plus, il est toujours dans la période d'essai et \n                         Par conséquent, naturellement, je ne veux pas quelque chose \n                         acheter. Son vélo est beaucoup trop précieux pour qu'il le chaîne à la station S-Bahn.",
+    "right": "Lisa est un employé d'une banque et passe un vélo tous les jours. \n                         Pendant le travail, elle complète son vélo avec un cadenas - \n                         Alibic, car les pièces sont de toute façon volées. Ça n'a pas d'importance, le vélo a de toute façon \n                         Seulement 30 € sur Internet."
+  },
+  "app": {
+    "title": "Appliquer",
+    "subtitle": "La cerise sur le gâteau sur le i",
+    "text": "Téléchargez l'application, créez un compte, scannez JUHUU Bikebox®, Park Bike. L'application explique étape par étape comment le faire et facilite la location de nos boîtes à vélo.",
+    "mobiletxt": "Boîte à vélo à balayage, vélo de parc",
+    "desktoptxt": "Notre application est également disponible pour la tablette"
+  },
+  "soindividuell": {
+    "title": "Aussi individuel que vous",
+    "subtitle": "Les boîtes à vélos JUHUU s'adaptent partout.",
+    "text": "Les boîtes à vélos JUHUU sont les premières boîtes à vélo sur le marché qui ne nécessitent pas de fondation et peuvent toujours être adaptées à n'importe quel endroit. La forme de type Uniz des boîtes à vélos JUHUU nous permet de les intégrer dans chaque paysage urbain.",
+    "card1": {
+      "title": "Aussi individuel que vous",
+      "text": "Les boîtes à vélos JUHUU peuvent être commandées dans n'importe quelle couleur RAL."
+    },
+    "card2": {
+      "title": "forme",
+      "text": "Grâce à la forme unique, les boîtes à vélo JUHUU peuvent être configurées dans n'importe quel arrangement."
+    },
+    "card3": {
+      "title": "fondation",
+      "text": "Qu'il s'agisse de gravier, d'asphalte ou de béton, les boîtes à vélo JUHUU n'ont pas besoin d'une fondation et sont toujours debout."
+    },
+    "title2": "Cela fait du vélo de JUHUU",
+    "txtCol": {
+      "col1": "Le formulaire unique permet à nos clients de configurer leurs boîtes à vélos dans n'importe quel arrangement. Les boîtes à vélos JUHUU s'adaptent parfaitement à leur emplacement. Le cube est idéal pour longtemps",
+      "col2": "Droit et le long des murs. Avec Prism, en revanche, des arrangements intéressants peuvent être facilement mis en œuvre. Prism Circle, un cercle de 12 boîtes à vélo ou un animal Prism, alternant",
+      "col3": "Les boîtes à vélo en face sont les plus populaires. Bien sûr, le bikeboxen Cube et Prism peut également être combiné. Certaines idées sont présentées ci-dessous."
+    },
+    "preview": "C'est à quoi ça pourrait ressembler avec eux"
+  },
+  "firlefanz": {
+    "title": "Non Frumfanz - juste sexy",
+    "text": "Si vous fermez notre boîte à vélo, vous ne voyez rien de l'extérieur. La porte est fermée, le vélo a disparu. Seul la poignée et le code QR sont visibles. Pas de trou de serrure, de verrouillage numérique ou de pièce de monnaie de loin.",
+    "subtitle": "Pourquoi casser alors que vous ne savez pas ce qu'il y a?",
+    "werbung": "Publicité",
+    "col1": "Grâce au look unique, à la porte lisse et aux centaines de couleurs RAL disponibles, nos boîtes à vélos JUHUU s'adaptent à presque tous les paysages urbains. Dommage qu'ils puissent être idéaux comme espace publicitaire.",
+    "col2": "Mais non seulement que, en plus des boîtes à vélos physiques de JUHUU, il y a aussi suffisamment d'espace dans notre application pour votre publicité. Par exemple, si vous réservez un vélo JUHUU ou louez à long terme."
+  },
+  "zumbike": {
+    "title": "Bonjour au vélo électronique, bonjour à charger",
+    "subtitle": "Avec JUHUU Bikeboxen, rien de tout cela n'est un problème.",
+    "col1": {
+      "title": "Protection contre le vol",
+      "text": "Les boîtes à vélos JUHUU sont équipées d'un système d'alarme. Lorsque quelqu'un casse la porte, un signal acoustique sonne et le locataire du vélo de JUHUU est informé."
+    },
+    "col2": {
+      "title": "Protection contre les intempéries",
+      "text": "Tous les composants électroniques d'un vélo JUHUU sont protégés. Même s'il est temporaire à l'extérieur ou si votre vélo est mouillé, vous pouvez utiliser des boîtes à vélo JUHUU."
+    },
+    "text1": "Les boîtes à vélos JUHUU sont développées en Autriche et fabriquées en Bulgarie. Avoir également une Europe économiquement forte à l'avenir. En déplaçant notre production dans un pays européen, nous avons pu réduire davantage nos émissions de CO2. Nous essayons de mettre en œuvre de nouvelles solutions innovantes pour réduire les gaz à effet de serre et attacher une grande importance à l'électricité verte et à un environnement propre. C'est pourquoi 100% de nos serveurs reçoivent de l'électricité verte.",
+    "qualitaet": "Qualité",
+    "text2": "Les normes élevées de nos producteurs ont un impact majeur sur nos produits. Les boîtes à vélos JUHUU sont plus épaisses, de haute qualité et plus résistantes que tout autre garage à vélo sur le marché. JUHUU Bikeboxen a une durée de vie minimale de 10 ans. Un produit durable a à nouveau un effet positif sur notre environnement.",
+    "maps": "Les boîtes à vélo JUHUU sont produites ici."
+  },
+  "stockpaker": {
+    "title": "JUHUU Prism vs Double -Decker Parker",
+    "text1": "En raison de la petite surface au sol et de la variété des options d'arrangement pour un vélo JUHUU Prism, les boîtes à vélo JUHUU Prism prennent moins de place par vélo.",
+    "text2": "En raison de l'économie d'espace d'environ 20%, plus de vélos peuvent être hébergés dans une zone inférieure si des boîtes à vélos sont utilisées au lieu de parkers à double sert.",
+    "text3": "Les boîtes à vélos JUHUU Prism permettent une manipulation considérablement ergonomique, car vous n'avez pas à travailler sur la hauteur du sein et le Bikebox Prism peut également entrer. En raison de la construction plus simple, JUHUU Prism est des boîtes à vélo à faible entretien.",
+    "image_sub": "Deux JUHUU Prism et un Double-Serker Parker"
+  },
+  "ueberblick": {
+    "title": "Aperçu des fonctionnalités",
+    "row1col1": {
+      "title": "Ride & Park",
+      "text": "Utilisez votre vélo comme moyen de transport quotidien et ne vous inquiétez pas de la sécurité et du vandalisme."
+    },
+    "row1col2": {
+      "title": "Sauver la planète",
+      "text": "Ajoutez votre pièce au changement climatique et utilisez la mobilité neutre du CO2. Avec l'utilisation régulière de votre vélo, vous pouvez économiser jusqu'à 300 kg de CO2 par an."
+    },
+    "row2col1": {
+      "title": "Innovant",
+      "text": "Les boîtes à vélo JUHUU sont disponibles avec des serrures électriques innovantes qui rendent les clés superflues. Au lieu de cela, vous pouvez déverrouiller votre boîte à vélos à l'aide de l'application."
+    },
+    "row2col2": {
+      "title": "Résistant",
+      "text": "Nos boîtes à vélo sont en tôle en tôle d'épaisseur de 2 mm d'épaisseur. De cette façon, nous pouvons garantir la plus haute sécurité possible pour votre vélo."
+    },
+    "row3col1": {
+      "title": "Électricité",
+      "text": "Utilisez la station de charge intervenue pour charger votre vélo électrique."
+    },
+    "row3col2": {
+      "title": "Application pour smartphone",
+      "text": "Nous développons actuellement une application pour smartphone avec laquelle vous pouvez ouvrir votre boîte à vélo. Vous avez toujours votre téléphone portable avec vous pendant que vous pouvez oublier votre carte à puce à la maison."
+    },
+    "row4col1": {
+      "title": "Batteries",
+      "text": "Si l'électricité échoue, les boîtes à vélo peuvent continuer à être utilisées."
+    }
+  },
+  "technischedaten": {
+    "title": "Spécifications techniques",
+    "txt": "Pour un aperçu des exigences techniques pour un emplacement de JUHUU Bikebox, veuillez nous envoyer un e-mail à"
+  }
+}

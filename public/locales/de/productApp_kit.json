@@ -1,0 +1,112 @@
+{
+  "title": "JUHUU AppKit",
+  "subtitle": "One Platform, Unlimited IoT Possibilities",
+  "trustInJuhuu": "Vertrauen in JUHUU",
+  "shortDesc": {
+    "title": "Kurzbeschreibung",
+    "text": "Das JUHUU App Kit bietet Unternehmen eine leistungsstarke und kostengünstige Lösung ihre Produkte und Dienstleistungen nahtlos in die JUHUU App zu integrieren. Durch die Entwicklung maßgeschneiderter Funktionen und angepasster Hardware ermöglichen wir es Ihnen, ihre Geschäftsprozesse zu optimieren und ihr Angebot auf effiziente Weise zu erweitern. Mit der Integration in die JUHUU App profitieren sie von den zahlreichen Vorteilen, die unsere Plattform bietet, wie zum Beispiel einer verbesserten Kundenbindung, einer benutzerfreundlichen Bedienung und der Möglichkeit, ihre Produkte einem breiteren Publikum zugänglich zu machen."
+  },
+  "features": {
+    "title": "Features",
+    "features": [
+      {
+        "title": "Whitelabeling",
+        "text": "Wir gestalten das Nutzerinterface nach den Bedürfnissen und Anforderungen des Betreibers/Herstellers, wobei das System nahezu unbegrenzte Möglichkeiten bietet. Das beinhaltet sowohl das Design als auch die Funktionen.",
+        "iconUrl": "/assets/img/icons/new/paint-brush.png"
+      },{
+        "title": "Zahlfunktion",
+        "text": "Wir bieten dem Endkunden eine Vielzahl von Zahlungsmöglichkeiten an, die sich an den unterschiedlichen Tarifmodellen unserer Partnerunternehmen orientieren.",
+        "iconUrl": "/assets/img/icons/new/credit-card.png"
+      }, {
+        "title": "Skalierbarkeit",
+        "text": "Die JUHUU App wurde entwickelt, um problemlos mit Ihrem Unternehmen zu wachsen. Die Integration neuer Funktionen und Anwendungen ist einfach und unkompliziert, sodass Sie Ihr Angebot jederzeit erweitern können.",
+        "iconUrl": "/assets/img/icons/new/scale.png"
+      },  {
+        "title": "Automatische Verwaltung",
+        "text": "Die JUHUU App verwaltet automatisch die Nutzerdaten und erstellt bequem Rechnungen, um den Verwaltungsaufwand für Unternehmen zu minimieren.",
+        "iconUrl": "/assets/img/icons/new/ordner.png"
+      }, {
+        "title": "Nutzersharing",
+        "text": "Profitieren Sie von allen in der JUHUU App registrierten Nutzern: Kunden, die ein Profil für eine bestimmte Anwendung erstellen, können ohne zusätzliche Registrierung Ihre Angebote nutzen (DSGVO-konform), was die Kundenzahl und den Umsatz steigert.",
+        "iconUrl": "/assets/img/icons/new/user.png"
+      },  {
+        "title": "Erweiterte Statistiken",
+        "text": "Erhalten Sie umfassende Statistiken und Analysen zum Nutzerverhalten und zur Leistung Ihrer Anwendung innerhalb der JUHUU App. Dies hilft Ihnen, datenbasierte Entscheidungen zu treffen und Ihr Angebot kontinuierlich zu optimieren.",
+        "iconUrl": "/assets/img/icons/new/bar-chart.png"
+      }, {
+        "title": "Kundensupport",
+        "text": "Erhalten Sie umfassende Statistiken und Analysen zum Nutzerverhalten und zur Leistung Ihrer Anwendung innerhalb der JUHUU App. Dies hilft Ihnen, datenbasierte Entscheidungen zu treffen und Ihr Angebot kontinuierlich zu optimieren.",
+        "iconUrl": "/assets/img/icons/new/headphone.png"
+      }
+    ]
+  },
+  "ctaCard": {
+    "title": "Ready to change your game?",
+    "text": "Kontaktiere uns noch heute und entfalte das volle Potential!",
+    "btnText": "Kontakt",
+    "btnUrl": "/contact"
+  },
+  "problem": {
+    "title": "Problemlösungen",
+    "problems": [
+      {
+        "title": "Entwicklungskosten",
+        "text": "Durch die Nutzung der JUHUU App können Unternehmen ihre Entwicklungs- und Implementierungskosten erheblich reduzieren, da sie auf der vorhandenen Infrastruktur und den Funktionen der App aufbauen."
+      },
+      {
+        "title": "Entwicklungszeit",
+        "text": "JUHUU beschleunigt den Entwicklungsprozess durch einfache Integration Ihrer Produkte und Dienstleistungen in die bestehende App-Plattform, wodurch wertvolle Zeit eingespart wird."
+      },
+      {
+        "title": "Fragmentierter Markt",
+        "text": "JUHUU hilft Unternehmen, ihre Produkte und Dienstleistungen in einem zentralisierten Ökosystem zu präsentieren, wodurch die Fragmentierung reduziert und die Sichtbarkeit ihrer Angebote erhöht wird."
+      },
+      {
+        "title": "Wartung und Instandhaltung",
+        "text": "Die JUHUU App übernimmt die Wartung und Instandhaltung der App-Plattform, sodass Unternehmen sich auf ihr Kerngeschäft konzentrieren können, während ihre Kunden eine zuverlässige und stets aktuelle App nutzen."
+      },
+      {
+        "title": "Kundensupport",
+        "text": "JUHUU bietet erstklassigen Kundensupport für die App-Plattform, wodurch Unternehmen die Notwendigkeit, eigene Supportstrukturen aufzubauen, vermeiden können und ihren Kunden trotzdem schnelle und effektive Hilfe bieten."
+      },
+      {
+        "title": "Technische Komplexität",
+        "text": "JUHUU vereinfacht die technische Komplexität der App-Entwicklung und -Integration, indem es Unternehmen eine bewährte und skalierbare Plattform bietet, die leicht an ihre spezifischen Anforderungen angepasst werden kann."
+      }
+    ]
+  },
+  "featureImg": "/assets/img/images/bikebox_img.png",
+  "bannerImg": "/assets/img/images/bikebox_img.png",
+  "reference": {
+    "title": "Referenzen",
+    "references": [
+
+    ]
+  },
+  "preview": {
+    "title": "Use Cases ",
+    "previews": [
+      {
+        "title": "Fahrrad- oder Autowaschanlage: ",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "Das JUHUU App Kit ermöglicht es Betreibern von Fahrrad- und Autowaschanlagen, den Zugang, die Nutzung und Bezahlung ihrer Anlagen über die JUHUU App zu steuern. Kunden können die Verfügbarkeit prüfen, Reservierungen vornehmen und Zahlungen tätigen - alles innerhalb der App.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Ladestationen für Elektrofahrzeuge: ",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "Mit dem JUHUU App Kit können Betreiber von Ladestationen für Elektrofahrzeuge ihre Kundenbindung und -gewinnung verbessern. Die Integration ermöglicht den Nutzern, Ladestationen in der Nähe zu finden, Verfügbarkeiten abzurufen, Ladevorgänge zu starten und die Abrechnung direkt über die JUHUU App abzuwickeln.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Ihr UseCase",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "Das JUHUU App Kit ermöglicht es Betreibern von Fahrrad- und Autowaschanlagen, den Zugang, die Nutzung und Bezahlung ihrer Anlagen über die JUHUU App zu steuern. Kunden können die Verfügbarkeit prüfen, Reservierungen vornehmen und Zahlungen tätigen - alles innerhalb der App.",
+        "btnTxt": "",
+        "btnLink": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "bikebox": {
+    "title": "JUHUU Bikebox",
+    "text": "De JUHUU-fietsen is een fietsbox die wordt bestuurd via de JUHUU-app, waarmee de diefstalbeveiliging van de fiets mogelijk is. In tegenstelling tot conventionele fietsparken biedt de fietsen volledige bescherming tegen diefstal van alle fietscomponenten en omgevingsinvloeden en vandalisme.",
+    "startBtnText": "Kom meer te weten",
+    "startBtnUrl": "/bikebox",
+    "mehrInfoText": "Kom meer te weten",
+    "mehrInfoBtnUrl": "/bikebox",
+    "imgUrl": "/assets/img/images/bikebox_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & Web Control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Betaling via app of web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reserverende optie"
+      },
+      {
+        "iconUrl": "/assets/img/icons/plug_icon-min.png",
+        "txt": "Zelfzuiver gebruik"
+      }
+    ]
+  },
+  "bikeroom": {
+    "title": "JUHUU multiroom",
+    "text": "De fietsbox is een fietsbox die wordt bestuurd via de JUHUU-app, waarmee de diefstalbestendige parkeerplaats van de fiets mogelijk is. In tegenstelling tot conventionele fietsparken biedt de fietsen volledige bescherming tegen diefstal van alle fietscomponenten en omgevingsinvloeden en vandalisme.",
+    "startBtnText": "Kom meer te weten",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "mehrInfoText": "Kom meer te weten",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-multiroom",
+    "imgUrl": "/assets/img/images/multi_room_edit.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & Web Control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Betaling via app of web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/seats.png",
+        "txt": "Plaats de opdracht"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reserverende optie"
+      }
+    ]
+  }
+}

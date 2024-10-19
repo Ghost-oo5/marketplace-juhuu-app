@@ -1,0 +1,112 @@
+{
+  "title": "JUHUU AppKit",
+  "subtitle": "One Platform, Unlimited IoT Possibilities",
+  "trustInJuhuu": "Trust in JUHUU",
+  "shortDesc": {
+    "title": "Short description",
+    "text": "The JUHUU App Kit offers companies a powerful and cost-effective solution to seamlessly integrate their products and services with the JUHUU App. By developing customized features and adapted hardware, we enable you to optimize your business processes and expand your offering in an efficient way. By integrating with the JUHUU App, they benefit from the numerous advantages our platform offers, such as improved customer loyalty, user-friendly operation, and the ability to make their products available to a wider audience."
+  },
+  "features": {
+    "title": "Features",
+    "features": [
+      {
+        "title": "Whitelabeling",
+        "text": "We design the user interface according to the needs and requirements of the operator/manufacturer, whereby the system offers almost unlimited possibilities. This includes both the design and the functions. ",
+        "iconUrl": "/assets/img/icons/new/paint-brush.png"
+      },{
+        "title": "Scalability",
+        "text": "The JUHUU app is designed to grow easily with your business. Integrating new features and apps is simple and straightforward, so you can expand your offering at any time.",
+        "iconUrl": "/assets/img/icons/new/scale.png"
+      }, {
+        "title": "User sharing",
+        "text": "Benefit from all users registered in the JUHUU app: customers who create a profile for a specific application can use your offers without additional registration (DSGVO-compliant), which increases the number of customers and sales.",
+        "iconUrl": "/assets/img/icons/new/user.png"
+      },  {
+        "title": "Payment function",
+        "text": "We offer the end customer a variety of payment options based on the different rate models of our partner companies.",
+        "iconUrl": "/assets/img/icons/new/credit-card.png"
+      }, {
+        "title": "Automatic management ",
+        "text": "The JUHUU app automatically manages user data and conveniently generates invoices to minimize the administrative burden on businesses.",
+        "iconUrl": "/assets/img/icons/new/ordner.png"
+      },  {
+        "title": "Advanced statistics ",
+        "text": "Get comprehensive statistics and analytics on user behavior and the performance of your application within the JUHUU app. This helps you make data-based decisions and continuously optimize your offering.",
+        "iconUrl": "/assets/img/icons/new/bar-chart.png"
+      }, {
+        "title": "Customer support ",
+        "text": "Get comprehensive statistics and analytics on user behavior and the performance of your application within the JUHUU app. This helps you make data-based decisions and continuously optimize your offering.",
+        "iconUrl": "/assets/img/icons/new/headphone.png"
+      }
+    ]
+  },
+  "ctaCard": {
+    "title": "Ready to change your game?",
+    "text": "Contact us today and unleash the full potential!",
+    "btnText": "Kontakt",
+    "btnUrl": "/contact"
+  },
+  "problem": {
+    "title": "Problem solutions",
+    "problems": [
+      {
+        "title": "Development time",
+        "text": "JUHUU speeds up the development process by easily integrating your products and services into the existing app platform, saving valuable time."
+      },
+      {
+        "title": "Development costs",
+        "text": "By using the JUHUU app, companies can significantly reduce their development and implementation costs by building on the existing infrastructure and features of the app."
+      },
+      {
+        "title": "Fragmented market",
+        "text": "JUHUU helps companies showcase their products and services in a centralized ecosystem, reducing fragmentation and increasing the visibility of their offerings."
+      },
+      {
+        "title": "Service and maintenance",
+        "text": "JUHUU App takes care of the maintenance and upkeep of the app platform, allowing companies to focus on their core business while their customers use a reliable and always up-to-date app."
+      },
+      {
+        "title": "Customer support",
+        "text": "JUHUU provides world-class customer support for the app platform, allowing companies to avoid the need to build their own support structures and still provide fast and effective assistance to their customers."
+      },
+      {
+        "title": "Technical complexity",
+        "text": "JUHUU simplifies the technical complexity of app development and integration by providing organizations with a proven and scalable platform that can be easily customized to meet their specific needs."
+      }
+    ]
+  },
+  "featureImg": "/assets/img/images/bikebox_img.png",
+  "bannerImg": "/assets/img/images/bikebox_img.png",
+  "reference": {
+    "title": "References",
+    "references": [
+
+    ]
+  },
+  "preview": {
+    "title": "Use Cases ",
+    "previews": [
+      {
+        "title": "Bicycle or car wash ",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "The JUHUU App Kit enables bike and car wash operators to control access, usage and payment of their facilities via the JUHUU App. Customers can check availability, make reservations and make payments - all within the app.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Charging stations for electric vehicles ",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "With the JUHUU App Kit, operators of charging stations for electric vehicles can improve their customer retention and acquisition. The integration enables users to find charging stations in the vicinity, check availability, start charging processes and handle billing directly via the JUHUU app.",
+        "btnTxt": "",
+        "btnLink": ""
+      },
+      {
+        "title": "Your UseCase",
+        "imgUrl": "/assets/img/images/bikebox_img.png",
+        "text": "The JUHUU App Kit enables bike and car wash operators to control access, usage and payment of their facilities via the JUHUU App. Customers can check availability, make reservations and make payments - all within the app.",
+        "btnTxt": "",
+        "btnLink": ""
+      }
+    ]
+  }
+}

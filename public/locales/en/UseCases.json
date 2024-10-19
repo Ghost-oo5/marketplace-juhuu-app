@@ -1,0 +1,80 @@
+{
+  "charge": {
+    "title": "JUHUU Charge",
+    "text": "JUHUU Charge is an innovative tax, management and payment software for your e-charging petrol network. In addition to a wide range of payment options, we also offer additional features.",
+    "startBtnText": "Learn more",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "mehrInfoText": "Learn more",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "imgUrl": "/assets/img/product_pictures/charging_station_transparent_background-min.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & web control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/queue_icon-min.png",
+        "txt": "Digital queue"
+      },
+      {
+        "iconUrl": "/assets/img/icons/credit_card_icon-min.png",
+        "txt": "Payment via app or web"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Reserving option"
+      },
+      {
+        "iconUrl": "/assets/img/icons/pos_terminal_icon-min.png",
+        "txt": "Payment via card terminal"
+      },
+      {
+        "iconUrl": "/assets/img/icons/settings_icon-min.png",
+        "txt": "Usable universal"
+      },
+      {
+        "iconUrl": "/assets/img/icons/piggy_bank_icon-min.png",
+        "txt": "Up to 80% available"
+      },
+      {
+        "iconUrl": "/assets/img/icons/bar-chart.png",
+        "txt": "Dynamic Pricing"
+      }
+    ]
+  },
+  "automat": {
+    "title": "Machine",
+    "text": "The BikeBox is a bicycle box controlled via the JUHUU app, which enables the theft-proof parking of the bike. In contrast to conventional bicycle parks, the BikeBox offers complete protection against theft of all bicycle components as well as environmental influences and vandalism.",
+    "startBtnText": "Learn more",
+    "startBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "mehrInfoText": "Learn more",
+    "mehrInfoBtnUrl": "https://docs.juhuu.app/products/juhuu-charge",
+    "imgUrl": "/assets/img/product_pictures/vending-machine.png",
+    "features": [
+      {
+        "iconUrl": "/assets/img/icons/mobile-app.png",
+        "txt": "App & web control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/thermometer.png",
+        "txt": "Temperature control"
+      },
+      {
+        "iconUrl": "/assets/img/icons/wall_clock_icon-min.png",
+        "txt": "Intelligent level indicator"
+      },
+      {
+        "iconUrl": "/assets/img/icons/settings_icon-min.png",
+        "txt": "Usable universal"
+      },
+      {
+        "iconUrl": "/assets/img/icons/piggy_bank_icon-min.png",
+        "txt": "Up to 60% available"
+      },
+      {
+        "iconUrl": "/assets/img/icons/bar-chart.png",
+        "txt": "Dynamic Pricing"
+      }
+    ]
+  }
+}

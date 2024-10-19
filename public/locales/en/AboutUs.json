@@ -1,0 +1,22 @@
+{
+  "Header": {
+    "infoTitle": "Who is JUHUU",
+    "infoText": "We are a company that was founded with the aim of creating a digital IoT app ecosystem without barriers. \n We all unite the common passion to create something new and to provide our customers an optimal system for their products."
+  },
+  "mission": {
+    "title": "mission",
+    "text": "Our mission is to create an IoT app ecosystem for everyone and give small to medium-sized companies the opportunity to be able to measure themselves."
+  },
+  "vision": {
+    "title": "vision",
+    "text": "The continuous orientation of our company on innovation and the constant development of new ideas will be crucial for our future success on the international stage. Due to the continuous search for opportunities for improvement and the openness to new ideas, we always want to be one step ahead of the competition and meet the changing needs of our customers. This approach is the key to promoting growth and maintaining competitiveness on today's market."
+  },
+  "values": {
+    "title": "Value"
+  },
+  "iconRow": {
+    "Teamwork": "Teamwork",
+    "Transparenz": "transparency",
+    "Kundenzufriedenheit": "Customer satisfaction"
+  }
+}
