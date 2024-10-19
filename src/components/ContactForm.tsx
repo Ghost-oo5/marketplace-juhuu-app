@@ -536,7 +536,7 @@ const ContactForm: React.FC = () => {
                           <ReCAPTCHA
                             ref={captchaRef}
                             sitekey={
-                              process.env.REACT_APP_RECAPTCHA_SITE_KEY || ""
+                              process.env.REACT_APP_RECAPTCHA_SITE_KEY || "6LfUS2YqAAAAAKgV9_UqNzGEb5KbVlTHsi-e0VXu"
                             }
                             size="invisible"
                           />
